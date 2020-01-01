@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-heath-light",
     "background": "#f7f3f7",
+    "selectionBackground": "#ab9bab",
     "black": "#f7f3f7",
     "blue": "#516aec",
     "brightBlack": "#9e8f9e",

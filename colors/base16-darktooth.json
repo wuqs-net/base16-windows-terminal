@@ -1,6 +1,7 @@
 {
     "name": "base16-darktooth",
     "background": "#1D2021",
+    "selectionBackground": "#504945",
     "black": "#1D2021",
     "blue": "#0D6678",
     "brightBlack": "#665C54",

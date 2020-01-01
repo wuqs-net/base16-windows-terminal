@@ -1,6 +1,7 @@
 {
     "name": "base16-ashes",
     "background": "#1C2023",
+    "selectionBackground": "#565E65",
     "black": "#1C2023",
     "blue": "#AE95C7",
     "brightBlack": "#747C84",

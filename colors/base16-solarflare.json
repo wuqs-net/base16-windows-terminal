@@ -1,6 +1,7 @@
 {
     "name": "base16-solarflare",
     "background": "#18262F",
+    "selectionBackground": "#586875",
     "black": "#18262F",
     "blue": "#33B5E1",
     "brightBlack": "#667581",

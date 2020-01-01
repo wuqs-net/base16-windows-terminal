@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-heath",
     "background": "#1b181b",
+    "selectionBackground": "#695d69",
     "black": "#1b181b",
     "blue": "#516aec",
     "brightBlack": "#776977",

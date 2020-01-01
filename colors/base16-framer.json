@@ -1,6 +1,7 @@
 {
     "name": "base16-framer",
     "background": "#181818",
+    "selectionBackground": "#464646",
     "black": "#181818",
     "blue": "#20BCFC",
     "brightBlack": "#747474",

@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-seaside",
     "background": "#131513",
+    "selectionBackground": "#5e6e5e",
     "black": "#131513",
     "blue": "#3d62f5",
     "brightBlack": "#687d68",

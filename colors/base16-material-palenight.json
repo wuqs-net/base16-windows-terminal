@@ -1,6 +1,7 @@
 {
     "name": "base16-material-palenight",
     "background": "#292D3E",
+    "selectionBackground": "#32374D",
     "black": "#292D3E",
     "blue": "#82AAFF",
     "brightBlack": "#676E95",

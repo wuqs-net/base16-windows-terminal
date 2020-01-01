@@ -1,6 +1,7 @@
 {
     "name": "base16-unikitty-light",
     "background": "#ffffff",
+    "selectionBackground": "#c4c3c5",
     "black": "#ffffff",
     "blue": "#775dff",
     "brightBlack": "#a7a5a8",

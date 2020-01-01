@@ -1,6 +1,7 @@
 {
     "name": "base16-brogrammer",
     "background": "#1f1f1f",
+    "selectionBackground": "#2dc55e",
     "black": "#1f1f1f",
     "blue": "#5350b9",
     "brightBlack": "#ecba0f",

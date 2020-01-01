@@ -1,6 +1,7 @@
 {
     "name": "base16-chalk",
     "background": "#151515",
+    "selectionBackground": "#303030",
     "black": "#151515",
     "blue": "#6fc2ef",
     "brightBlack": "#505050",

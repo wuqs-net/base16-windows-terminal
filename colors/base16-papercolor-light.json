@@ -1,6 +1,7 @@
 {
     "name": "base16-papercolor-light",
     "background": "#eeeeee",
+    "selectionBackground": "#008700",
     "black": "#eeeeee",
     "blue": "#d75f00",
     "brightBlack": "#5f8700",

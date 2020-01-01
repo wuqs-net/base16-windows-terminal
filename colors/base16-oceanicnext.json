@@ -1,6 +1,7 @@
 {
     "name": "base16-oceanicnext",
     "background": "#1B2B34",
+    "selectionBackground": "#4F5B66",
     "black": "#1B2B34",
     "blue": "#6699CC",
     "brightBlack": "#65737E",

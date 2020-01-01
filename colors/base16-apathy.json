@@ -1,6 +1,7 @@
 {
     "name": "base16-apathy",
     "background": "#031A16",
+    "selectionBackground": "#184E45",
     "black": "#031A16",
     "blue": "#96883E",
     "brightBlack": "#2B685E",

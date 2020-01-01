@@ -1,6 +1,7 @@
 {
     "name": "base16-brushtrees",
     "background": "#E3EFEF",
+    "selectionBackground": "#B0C5C8",
     "black": "#E3EFEF",
     "blue": "#868cb3",
     "brightBlack": "#98AFB5",

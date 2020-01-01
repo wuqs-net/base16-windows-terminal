@@ -1,6 +1,7 @@
 {
     "name": "base16-macintosh",
     "background": "#000000",
+    "selectionBackground": "#404040",
     "black": "#000000",
     "blue": "#0000d3",
     "brightBlack": "#808080",

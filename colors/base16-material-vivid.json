@@ -1,6 +1,7 @@
 {
     "name": "base16-material-vivid",
     "background": "#202124",
+    "selectionBackground": "#323639",
     "black": "#202124",
     "blue": "#2196f3",
     "brightBlack": "#44464d",

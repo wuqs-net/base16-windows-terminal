@@ -1,6 +1,7 @@
 {
     "name": "base16-bespin",
     "background": "#28211c",
+    "selectionBackground": "#5e5d5c",
     "black": "#28211c",
     "blue": "#5ea6ea",
     "brightBlack": "#666666",

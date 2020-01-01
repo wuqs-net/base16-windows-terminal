@@ -1,6 +1,7 @@
 {
     "name": "base16-cupertino",
     "background": "#ffffff",
+    "selectionBackground": "#c0c0c0",
     "black": "#ffffff",
     "blue": "#0000ff",
     "brightBlack": "#808080",

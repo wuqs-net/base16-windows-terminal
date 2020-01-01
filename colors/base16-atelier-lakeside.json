@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-lakeside",
     "background": "#161b1d",
+    "selectionBackground": "#516d7b",
     "black": "#161b1d",
     "blue": "#257fad",
     "brightBlack": "#5a7b8c",

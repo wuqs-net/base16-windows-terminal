@@ -1,6 +1,7 @@
 {
     "name": "base16-espresso",
     "background": "#2d2d2d",
+    "selectionBackground": "#515151",
     "black": "#2d2d2d",
     "blue": "#6c99bb",
     "brightBlack": "#777777",

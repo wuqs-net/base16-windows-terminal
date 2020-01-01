@@ -1,6 +1,7 @@
 {
     "name": "base16-material-lighter",
     "background": "#FAFAFA",
+    "selectionBackground": "#CCEAE7",
     "black": "#FAFAFA",
     "blue": "#6182B8",
     "brightBlack": "#CCD7DA",

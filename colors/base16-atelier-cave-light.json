@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-cave-light",
     "background": "#efecf4",
+    "selectionBackground": "#8b8792",
     "black": "#efecf4",
     "blue": "#576ddb",
     "brightBlack": "#7e7887",

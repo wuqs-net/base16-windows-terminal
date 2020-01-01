@@ -1,6 +1,7 @@
 {
     "name": "base16-synth-midnight-dark",
     "background": "#040404",
+    "selectionBackground": "#242424",
     "black": "#040404",
     "blue": "#03AEFF",
     "brightBlack": "#61507A",

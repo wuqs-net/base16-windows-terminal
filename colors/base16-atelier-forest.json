@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-forest",
     "background": "#1b1918",
+    "selectionBackground": "#68615e",
     "black": "#1b1918",
     "blue": "#407ee7",
     "brightBlack": "#766e6b",

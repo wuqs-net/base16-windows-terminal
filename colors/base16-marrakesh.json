@@ -1,6 +1,7 @@
 {
     "name": "base16-marrakesh",
     "background": "#201602",
+    "selectionBackground": "#5f5b17",
     "black": "#201602",
     "blue": "#477ca1",
     "brightBlack": "#6c6823",

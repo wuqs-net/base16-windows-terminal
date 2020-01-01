@@ -1,6 +1,7 @@
 {
     "name": "base16-porple",
     "background": "#292c36",
+    "selectionBackground": "#474160",
     "black": "#292c36",
     "blue": "#8485ce",
     "brightBlack": "#65568a",

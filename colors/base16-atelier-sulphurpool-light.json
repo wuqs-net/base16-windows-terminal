@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-sulphurpool-light",
     "background": "#f5f7ff",
+    "selectionBackground": "#979db4",
     "black": "#f5f7ff",
     "blue": "#3d8fd1",
     "brightBlack": "#898ea4",

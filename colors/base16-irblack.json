@@ -1,6 +1,7 @@
 {
     "name": "base16-irblack",
     "background": "#000000",
+    "selectionBackground": "#484844",
     "black": "#000000",
     "blue": "#96cbfe",
     "brightBlack": "#6c6c66",

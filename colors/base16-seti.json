@@ -1,6 +1,7 @@
 {
     "name": "base16-seti",
     "background": "#151718",
+    "selectionBackground": "#3B758C",
     "black": "#151718",
     "blue": "#55b5db",
     "brightBlack": "#41535B",

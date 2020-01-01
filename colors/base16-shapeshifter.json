@@ -1,6 +1,7 @@
 {
     "name": "base16-shapeshifter",
     "background": "#f9f9f9",
+    "selectionBackground": "#ababab",
     "black": "#f9f9f9",
     "blue": "#3b48e3",
     "brightBlack": "#555555",

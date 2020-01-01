@@ -1,6 +1,7 @@
 {
     "name": "base16-classic-light",
     "background": "#F5F5F5",
+    "selectionBackground": "#D0D0D0",
     "black": "#F5F5F5",
     "blue": "#6A9FB5",
     "brightBlack": "#B0B0B0",

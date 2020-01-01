@@ -1,6 +1,7 @@
 {
     "name": "base16-horizon-light",
     "background": "#FDF0ED",
+    "selectionBackground": "#F9CBBE",
     "black": "#FDF0ED",
     "blue": "#DA103F",
     "brightBlack": "#BDB3B1",

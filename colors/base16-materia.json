@@ -1,6 +1,7 @@
 {
     "name": "base16-materia",
     "background": "#263238",
+    "selectionBackground": "#37474F",
     "black": "#263238",
     "blue": "#89DDFF",
     "brightBlack": "#707880",

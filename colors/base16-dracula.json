@@ -1,6 +1,7 @@
 {
     "name": "base16-dracula",
     "background": "#282936",
+    "selectionBackground": "#4d4f68",
     "black": "#282936",
     "blue": "#62d6e8",
     "brightBlack": "#626483",

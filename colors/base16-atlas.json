@@ -1,6 +1,7 @@
 {
     "name": "base16-atlas",
     "background": "#002635",
+    "selectionBackground": "#517F8D",
     "black": "#002635",
     "blue": "#5dd7b9",
     "brightBlack": "#6C8B91",

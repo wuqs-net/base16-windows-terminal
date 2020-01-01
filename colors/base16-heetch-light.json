@@ -1,6 +1,7 @@
 {
     "name": "base16-heetch-light",
     "background": "#feffff",
+    "selectionBackground": "#7b6d8b",
     "black": "#feffff",
     "blue": "#47f9f5",
     "brightBlack": "#9c92a8",

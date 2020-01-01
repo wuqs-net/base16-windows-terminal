@@ -1,6 +1,7 @@
 {
     "name": "base16-summerfruit-light",
     "background": "#FFFFFF",
+    "selectionBackground": "#D0D0D0",
     "black": "#FFFFFF",
     "blue": "#3777E6",
     "brightBlack": "#B0B0B0",

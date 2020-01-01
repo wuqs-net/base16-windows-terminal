@@ -1,6 +1,7 @@
 {
     "name": "base16-woodland",
     "background": "#231e18",
+    "selectionBackground": "#48413a",
     "black": "#231e18",
     "blue": "#88a4d3",
     "brightBlack": "#9d8b70",

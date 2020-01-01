@@ -1,6 +1,7 @@
 {
     "name": "base16-horizon-terminal-light",
     "background": "#FDF0ED",
+    "selectionBackground": "#F9CBBE",
     "black": "#FDF0ED",
     "blue": "#26BBD9",
     "brightBlack": "#BDB3B1",

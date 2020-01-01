@@ -1,6 +1,7 @@
 {
     "name": "base16-grayscale-light",
     "background": "#f7f7f7",
+    "selectionBackground": "#b9b9b9",
     "black": "#f7f7f7",
     "blue": "#686868",
     "brightBlack": "#ababab",

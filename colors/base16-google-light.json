@@ -1,6 +1,7 @@
 {
     "name": "base16-google-light",
     "background": "#ffffff",
+    "selectionBackground": "#c5c8c6",
     "black": "#ffffff",
     "blue": "#3971ED",
     "brightBlack": "#b4b7b4",

@@ -1,6 +1,7 @@
 {
     "name": "base16-codeschool",
     "background": "#232c31",
+    "selectionBackground": "#2a343a",
     "black": "#232c31",
     "blue": "#484d79",
     "brightBlack": "#3f4944",

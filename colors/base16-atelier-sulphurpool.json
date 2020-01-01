@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-sulphurpool",
     "background": "#202746",
+    "selectionBackground": "#5e6687",
     "black": "#202746",
     "blue": "#3d8fd1",
     "brightBlack": "#6b7394",

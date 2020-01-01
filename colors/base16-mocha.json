@@ -1,6 +1,7 @@
 {
     "name": "base16-mocha",
     "background": "#3B3228",
+    "selectionBackground": "#645240",
     "black": "#3B3228",
     "blue": "#8ab3b5",
     "brightBlack": "#7e705a",

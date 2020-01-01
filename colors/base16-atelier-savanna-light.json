@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-savanna-light",
     "background": "#ecf4ee",
+    "selectionBackground": "#87928a",
     "black": "#ecf4ee",
     "blue": "#478c90",
     "brightBlack": "#78877d",

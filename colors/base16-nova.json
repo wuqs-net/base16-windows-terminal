@@ -1,6 +1,7 @@
 {
     "name": "base16-nova",
     "background": "#3C4C55",
+    "selectionBackground": "#6A7D89",
     "black": "#3C4C55",
     "blue": "#83AFE5",
     "brightBlack": "#899BA6",

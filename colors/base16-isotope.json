@@ -1,6 +1,7 @@
 {
     "name": "base16-isotope",
     "background": "#000000",
+    "selectionBackground": "#606060",
     "black": "#000000",
     "blue": "#0066ff",
     "brightBlack": "#808080",

@@ -1,6 +1,7 @@
 {
     "name": "base16-gruvbox-light-hard",
     "background": "#f9f5d7",
+    "selectionBackground": "#d5c4a1",
     "black": "#f9f5d7",
     "blue": "#076678",
     "brightBlack": "#bdae93",

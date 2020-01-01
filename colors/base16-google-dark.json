@@ -1,6 +1,7 @@
 {
     "name": "base16-google-dark",
     "background": "#1d1f21",
+    "selectionBackground": "#373b41",
     "black": "#1d1f21",
     "blue": "#3971ED",
     "brightBlack": "#969896",

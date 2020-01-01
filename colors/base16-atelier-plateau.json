@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-plateau",
     "background": "#1b1818",
+    "selectionBackground": "#585050",
     "black": "#1b1818",
     "blue": "#7272ca",
     "brightBlack": "#655d5d",

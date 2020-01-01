@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-dune-light",
     "background": "#fefbec",
+    "selectionBackground": "#a6a28c",
     "black": "#fefbec",
     "blue": "#6684e1",
     "brightBlack": "#999580",

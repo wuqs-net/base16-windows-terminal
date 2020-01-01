@@ -1,6 +1,7 @@
 {
     "name": "base16-greenscreen",
     "background": "#001100",
+    "selectionBackground": "#005500",
     "black": "#001100",
     "blue": "#009900",
     "brightBlack": "#007700",

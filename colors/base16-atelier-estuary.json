@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-estuary",
     "background": "#22221b",
+    "selectionBackground": "#5f5e4e",
     "black": "#22221b",
     "blue": "#36a166",
     "brightBlack": "#6c6b5a",

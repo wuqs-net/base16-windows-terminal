@@ -1,6 +1,7 @@
 {
     "name": "base16-pop",
     "background": "#000000",
+    "selectionBackground": "#303030",
     "black": "#000000",
     "blue": "#0e5a94",
     "brightBlack": "#505050",

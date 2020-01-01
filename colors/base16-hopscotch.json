@@ -1,6 +1,7 @@
 {
     "name": "base16-hopscotch",
     "background": "#322931",
+    "selectionBackground": "#5c545b",
     "black": "#322931",
     "blue": "#1290bf",
     "brightBlack": "#797379",

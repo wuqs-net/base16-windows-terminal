@@ -1,6 +1,7 @@
 {
     "name": "base16-gigavolt",
     "background": "#202126",
+    "selectionBackground": "#5a576e",
     "black": "#202126",
     "blue": "#40bfff",
     "brightBlack": "#a1d2e6",

@@ -1,6 +1,7 @@
 {
     "name": "base16-ia-light",
     "background": "#f6f6f6",
+    "selectionBackground": "#bde5f2",
     "black": "#f6f6f6",
     "blue": "#48bac2",
     "brightBlack": "#898989",

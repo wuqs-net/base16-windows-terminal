@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-cave",
     "background": "#19171c",
+    "selectionBackground": "#585260",
     "black": "#19171c",
     "blue": "#576ddb",
     "brightBlack": "#655f6d",

@@ -1,6 +1,7 @@
 {
     "name": "base16-outrun-dark",
     "background": "#00002A",
+    "selectionBackground": "#30305A",
     "black": "#00002A",
     "blue": "#66B0FF",
     "brightBlack": "#50507A",

@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-estuary-light",
     "background": "#f4f3ec",
+    "selectionBackground": "#929181",
     "black": "#f4f3ec",
     "blue": "#36a166",
     "brightBlack": "#878573",

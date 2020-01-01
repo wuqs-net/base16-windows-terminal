@@ -1,6 +1,7 @@
 {
     "name": "base16-bright",
     "background": "#000000",
+    "selectionBackground": "#505050",
     "black": "#000000",
     "blue": "#6fb3d2",
     "brightBlack": "#b0b0b0",

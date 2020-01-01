@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-lakeside-light",
     "background": "#ebf8ff",
+    "selectionBackground": "#7ea2b4",
     "black": "#ebf8ff",
     "blue": "#257fad",
     "brightBlack": "#7195a8",

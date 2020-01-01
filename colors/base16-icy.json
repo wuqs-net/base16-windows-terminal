@@ -1,6 +1,7 @@
 {
     "name": "base16-icy",
     "background": "#021012",
+    "selectionBackground": "#041f23",
     "black": "#021012",
     "blue": "#00bcd4",
     "brightBlack": "#052e34",

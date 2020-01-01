@@ -1,6 +1,7 @@
 {
     "name": "base16-embers",
     "background": "#16130F",
+    "selectionBackground": "#433B32",
     "black": "#16130F",
     "blue": "#6D5782",
     "brightBlack": "#5A5047",

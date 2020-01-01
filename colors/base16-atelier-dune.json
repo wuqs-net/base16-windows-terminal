@@ -1,6 +1,7 @@
 {
     "name": "base16-atelier-dune",
     "background": "#20201d",
+    "selectionBackground": "#6e6b5e",
     "black": "#20201d",
     "blue": "#6684e1",
     "brightBlack": "#7d7a68",

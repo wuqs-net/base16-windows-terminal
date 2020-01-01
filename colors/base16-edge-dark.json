@@ -1,6 +1,7 @@
 {
     "name": "base16-edge-dark",
     "background": "#262729",
+    "selectionBackground": "#b7bec9",
     "black": "#262729",
     "blue": "#73b3e7",
     "brightBlack": "#3e4249",

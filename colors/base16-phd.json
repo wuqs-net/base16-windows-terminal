@@ -1,6 +1,7 @@
 {
     "name": "base16-phd",
     "background": "#061229",
+    "selectionBackground": "#4d5666",
     "black": "#061229",
     "blue": "#5299bf",
     "brightBlack": "#717885",

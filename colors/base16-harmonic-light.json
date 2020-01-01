@@ -1,6 +1,7 @@
 {
     "name": "base16-harmonic-light",
     "background": "#f7f9fb",
+    "selectionBackground": "#cbd6e2",
     "black": "#f7f9fb",
     "blue": "#8b56bf",
     "brightBlack": "#aabcce",

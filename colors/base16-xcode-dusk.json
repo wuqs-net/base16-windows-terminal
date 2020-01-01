@@ -1,6 +1,7 @@
 {
     "name": "base16-xcode-dusk",
     "background": "#282B35",
+    "selectionBackground": "#53555D",
     "black": "#282B35",
     "blue": "#790EAD",
     "brightBlack": "#686A71",

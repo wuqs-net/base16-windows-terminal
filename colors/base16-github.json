@@ -1,6 +1,7 @@
 {
     "name": "base16-github",
     "background": "#ffffff",
+    "selectionBackground": "#c8c8fa",
     "black": "#ffffff",
     "blue": "#795da3",
     "brightBlack": "#969896",

@@ -1,6 +1,7 @@
 {
     "name": "base16-nord",
     "background": "#2E3440",
+    "selectionBackground": "#434C5E",
     "black": "#2E3440",
     "blue": "#EBCB8B",
     "brightBlack": "#4C566A",

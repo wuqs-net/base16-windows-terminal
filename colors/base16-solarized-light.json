@@ -1,6 +1,7 @@
 {
     "name": "base16-solarized-light",
     "background": "#fdf6e3",
+    "selectionBackground": "#93a1a1",
     "black": "#fdf6e3",
     "blue": "#268bd2",
     "brightBlack": "#839496",

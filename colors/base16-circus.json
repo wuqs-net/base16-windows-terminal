@@ -1,6 +1,7 @@
 {
     "name": "base16-circus",
     "background": "#191919",
+    "selectionBackground": "#303030",
     "black": "#191919",
     "blue": "#639ee4",
     "brightBlack": "#5f5a60",

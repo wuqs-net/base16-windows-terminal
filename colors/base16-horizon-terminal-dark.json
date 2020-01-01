@@ -1,6 +1,7 @@
 {
     "name": "base16-horizon-terminal-dark",
     "background": "#1C1E26",
+    "selectionBackground": "#2E303E",
     "black": "#1C1E26",
     "blue": "#26BBD9",
     "brightBlack": "#6F6F70",

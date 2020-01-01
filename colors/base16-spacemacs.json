@@ -1,6 +1,7 @@
 {
     "name": "base16-spacemacs",
     "background": "#1f2022",
+    "selectionBackground": "#444155",
     "black": "#1f2022",
     "blue": "#4f97d7",
     "brightBlack": "#585858",

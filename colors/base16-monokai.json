@@ -1,6 +1,7 @@
 {
     "name": "base16-monokai",
     "background": "#272822",
+    "selectionBackground": "#49483e",
     "black": "#272822",
     "blue": "#66d9ef",
     "brightBlack": "#75715e",

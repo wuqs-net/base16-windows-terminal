@@ -1,6 +1,7 @@
 {
     "name": "base16-gruvbox-light-medium",
     "background": "#fbf1c7",
+    "selectionBackground": "#d5c4a1",
     "black": "#fbf1c7",
     "blue": "#076678",
     "brightBlack": "#bdae93",
