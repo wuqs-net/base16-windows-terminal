@@ -1,0 +1,21 @@
+{
+    "name": "base16-atelier-cave-light",
+    "background": "#efecf4",
+    "black": "#efecf4",
+    "blue": "#576ddb",
+    "brightBlack": "#7e7887",
+    "brightBlue": "#576ddb",
+    "brightCyan": "#398bc6",
+    "brightGreen": "#2a9292",
+    "brightPurple": "#955ae7",
+    "brightRed": "#be4678",
+    "brightWhite": "#19171c",
+    "brightYellow": "#a06e3b",
+    "cyan": "#398bc6",
+    "foreground": "#585260",
+    "green": "#2a9292",
+    "purple": "#955ae7",
+    "red": "#be4678",
+    "white": "#585260",
+    "yellow": "#a06e3b"
+}

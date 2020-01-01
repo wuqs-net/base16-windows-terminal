@@ -1,0 +1,21 @@
+{
+    "name": "base16-material-lighter",
+    "background": "#FAFAFA",
+    "black": "#FAFAFA",
+    "blue": "#6182B8",
+    "brightBlack": "#CCD7DA",
+    "brightBlue": "#6182B8",
+    "brightCyan": "#39ADB5",
+    "brightGreen": "#91B859",
+    "brightPurple": "#7C4DFF",
+    "brightRed": "#FF5370",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#FFB62C",
+    "cyan": "#39ADB5",
+    "foreground": "#80CBC4",
+    "green": "#91B859",
+    "purple": "#7C4DFF",
+    "red": "#FF5370",
+    "white": "#80CBC4",
+    "yellow": "#FFB62C"
+}

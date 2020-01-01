@@ -1,0 +1,21 @@
+{
+    "name": "base16-tube",
+    "background": "#231f20",
+    "black": "#231f20",
+    "blue": "#009ddc",
+    "brightBlack": "#737171",
+    "brightBlue": "#009ddc",
+    "brightCyan": "#85cebc",
+    "brightGreen": "#00853e",
+    "brightPurple": "#98005d",
+    "brightRed": "#ee2e24",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#ffd204",
+    "cyan": "#85cebc",
+    "foreground": "#d9d8d8",
+    "green": "#00853e",
+    "purple": "#98005d",
+    "red": "#ee2e24",
+    "white": "#d9d8d8",
+    "yellow": "#ffd204"
+}

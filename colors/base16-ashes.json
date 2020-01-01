@@ -1,0 +1,21 @@
+{
+    "name": "base16-ashes",
+    "background": "#1C2023",
+    "black": "#1C2023",
+    "blue": "#AE95C7",
+    "brightBlack": "#747C84",
+    "brightBlue": "#AE95C7",
+    "brightCyan": "#95AEC7",
+    "brightGreen": "#95C7AE",
+    "brightPurple": "#C795AE",
+    "brightRed": "#C7AE95",
+    "brightWhite": "#F3F4F5",
+    "brightYellow": "#AEC795",
+    "cyan": "#95AEC7",
+    "foreground": "#C7CCD1",
+    "green": "#95C7AE",
+    "purple": "#C795AE",
+    "red": "#C7AE95",
+    "white": "#C7CCD1",
+    "yellow": "#AEC795"
+}

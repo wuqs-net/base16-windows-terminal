@@ -1,0 +1,21 @@
+{
+    "name": "base16-github",
+    "background": "#ffffff",
+    "black": "#ffffff",
+    "blue": "#795da3",
+    "brightBlack": "#969896",
+    "brightBlue": "#795da3",
+    "brightCyan": "#183691",
+    "brightGreen": "#183691",
+    "brightPurple": "#a71d5d",
+    "brightRed": "#ed6a43",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#795da3",
+    "cyan": "#183691",
+    "foreground": "#333333",
+    "green": "#183691",
+    "purple": "#a71d5d",
+    "red": "#ed6a43",
+    "white": "#333333",
+    "yellow": "#795da3"
+}

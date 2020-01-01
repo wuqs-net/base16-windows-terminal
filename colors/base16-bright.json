@@ -1,0 +1,21 @@
+{
+    "name": "base16-bright",
+    "background": "#000000",
+    "black": "#000000",
+    "blue": "#6fb3d2",
+    "brightBlack": "#b0b0b0",
+    "brightBlue": "#6fb3d2",
+    "brightCyan": "#76c7b7",
+    "brightGreen": "#a1c659",
+    "brightPurple": "#d381c3",
+    "brightRed": "#fb0120",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#fda331",
+    "cyan": "#76c7b7",
+    "foreground": "#e0e0e0",
+    "green": "#a1c659",
+    "purple": "#d381c3",
+    "red": "#fb0120",
+    "white": "#e0e0e0",
+    "yellow": "#fda331"
+}

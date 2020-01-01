@@ -1,0 +1,21 @@
+{
+    "name": "base16-one-light",
+    "background": "#fafafa",
+    "black": "#fafafa",
+    "blue": "#4078f2",
+    "brightBlack": "#a0a1a7",
+    "brightBlue": "#4078f2",
+    "brightCyan": "#0184bc",
+    "brightGreen": "#50a14f",
+    "brightPurple": "#a626a4",
+    "brightRed": "#ca1243",
+    "brightWhite": "#090a0b",
+    "brightYellow": "#c18401",
+    "cyan": "#0184bc",
+    "foreground": "#383a42",
+    "green": "#50a14f",
+    "purple": "#a626a4",
+    "red": "#ca1243",
+    "white": "#383a42",
+    "yellow": "#c18401"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "base16-pop",
+    "background": "#000000",
+    "black": "#000000",
+    "blue": "#0e5a94",
+    "brightBlack": "#505050",
+    "brightBlue": "#0e5a94",
+    "brightCyan": "#00aabb",
+    "brightGreen": "#37b349",
+    "brightPurple": "#b31e8d",
+    "brightRed": "#eb008a",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#f8ca12",
+    "cyan": "#00aabb",
+    "foreground": "#d0d0d0",
+    "green": "#37b349",
+    "purple": "#b31e8d",
+    "red": "#eb008a",
+    "white": "#d0d0d0",
+    "yellow": "#f8ca12"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "base16-hopscotch",
+    "background": "#322931",
+    "black": "#322931",
+    "blue": "#1290bf",
+    "brightBlack": "#797379",
+    "brightBlue": "#1290bf",
+    "brightCyan": "#149b93",
+    "brightGreen": "#8fc13e",
+    "brightPurple": "#c85e7c",
+    "brightRed": "#dd464c",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#fdcc59",
+    "cyan": "#149b93",
+    "foreground": "#b9b5b8",
+    "green": "#8fc13e",
+    "purple": "#c85e7c",
+    "red": "#dd464c",
+    "white": "#b9b5b8",
+    "yellow": "#fdcc59"
+}

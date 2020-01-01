@@ -1,0 +1,21 @@
+{
+    "name": "base16-nova",
+    "background": "#3C4C55",
+    "black": "#3C4C55",
+    "blue": "#83AFE5",
+    "brightBlack": "#899BA6",
+    "brightBlue": "#83AFE5",
+    "brightCyan": "#F2C38F",
+    "brightGreen": "#7FC1CA",
+    "brightPurple": "#9A93E1",
+    "brightRed": "#83AFE5",
+    "brightWhite": "#556873",
+    "brightYellow": "#A8CE93",
+    "cyan": "#F2C38F",
+    "foreground": "#C5D4DD",
+    "green": "#7FC1CA",
+    "purple": "#9A93E1",
+    "red": "#83AFE5",
+    "white": "#C5D4DD",
+    "yellow": "#A8CE93"
+}

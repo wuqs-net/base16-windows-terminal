@@ -1,0 +1,21 @@
+{
+    "name": "base16-black-metal-venom",
+    "background": "#000000",
+    "black": "#000000",
+    "blue": "#888888",
+    "brightBlack": "#333333",
+    "brightBlue": "#888888",
+    "brightCyan": "#aaaaaa",
+    "brightGreen": "#f8f7f2",
+    "brightPurple": "#999999",
+    "brightRed": "#5f8787",
+    "brightWhite": "#c1c1c1",
+    "brightYellow": "#79241f",
+    "cyan": "#aaaaaa",
+    "foreground": "#c1c1c1",
+    "green": "#f8f7f2",
+    "purple": "#999999",
+    "red": "#5f8787",
+    "white": "#c1c1c1",
+    "yellow": "#79241f"
+}

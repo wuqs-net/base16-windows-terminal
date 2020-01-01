@@ -1,0 +1,21 @@
+{
+    "name": "base16-ia-light",
+    "background": "#f6f6f6",
+    "black": "#f6f6f6",
+    "blue": "#48bac2",
+    "brightBlack": "#898989",
+    "brightBlue": "#48bac2",
+    "brightCyan": "#2d6bb1",
+    "brightGreen": "#38781c",
+    "brightPurple": "#a94598",
+    "brightRed": "#9c5a02",
+    "brightWhite": "#f8f8f8",
+    "brightYellow": "#c48218",
+    "cyan": "#2d6bb1",
+    "foreground": "#181818",
+    "green": "#38781c",
+    "purple": "#a94598",
+    "red": "#9c5a02",
+    "white": "#181818",
+    "yellow": "#c48218"
+}

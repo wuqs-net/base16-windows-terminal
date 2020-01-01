@@ -1,0 +1,21 @@
+{
+    "name": "base16-horizon-light",
+    "background": "#FDF0ED",
+    "black": "#FDF0ED",
+    "blue": "#DA103F",
+    "brightBlack": "#BDB3B1",
+    "brightBlue": "#DA103F",
+    "brightCyan": "#DC3318",
+    "brightGreen": "#94E1B0",
+    "brightPurple": "#1D8991",
+    "brightRed": "#F7939B",
+    "brightWhite": "#201C1D",
+    "brightYellow": "#FBE0D9",
+    "cyan": "#DC3318",
+    "foreground": "#403C3D",
+    "green": "#94E1B0",
+    "purple": "#1D8991",
+    "red": "#F7939B",
+    "white": "#403C3D",
+    "yellow": "#FBE0D9"
+}

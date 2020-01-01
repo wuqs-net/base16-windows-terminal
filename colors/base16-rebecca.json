@@ -1,0 +1,21 @@
+{
+    "name": "base16-rebecca",
+    "background": "#292a44",
+    "black": "#292a44",
+    "blue": "#2de0a7",
+    "brightBlack": "#666699",
+    "brightBlue": "#2de0a7",
+    "brightCyan": "#8eaee0",
+    "brightGreen": "#6dfedf",
+    "brightPurple": "#7aa5ff",
+    "brightRed": "#a0a0c5",
+    "brightWhite": "#53495d",
+    "brightYellow": "#ae81ff",
+    "cyan": "#8eaee0",
+    "foreground": "#f1eff8",
+    "green": "#6dfedf",
+    "purple": "#7aa5ff",
+    "red": "#a0a0c5",
+    "white": "#f1eff8",
+    "yellow": "#ae81ff"
+}

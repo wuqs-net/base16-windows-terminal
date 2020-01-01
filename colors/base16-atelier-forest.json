@@ -1,0 +1,21 @@
+{
+    "name": "base16-atelier-forest",
+    "background": "#1b1918",
+    "black": "#1b1918",
+    "blue": "#407ee7",
+    "brightBlack": "#766e6b",
+    "brightBlue": "#407ee7",
+    "brightCyan": "#3d97b8",
+    "brightGreen": "#7b9726",
+    "brightPurple": "#6666ea",
+    "brightRed": "#f22c40",
+    "brightWhite": "#f1efee",
+    "brightYellow": "#c38418",
+    "cyan": "#3d97b8",
+    "foreground": "#a8a19f",
+    "green": "#7b9726",
+    "purple": "#6666ea",
+    "red": "#f22c40",
+    "white": "#a8a19f",
+    "yellow": "#c38418"
+}

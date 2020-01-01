@@ -1,0 +1,21 @@
+{
+    "name": "base16-solarized-light",
+    "background": "#fdf6e3",
+    "black": "#fdf6e3",
+    "blue": "#268bd2",
+    "brightBlack": "#839496",
+    "brightBlue": "#268bd2",
+    "brightCyan": "#2aa198",
+    "brightGreen": "#859900",
+    "brightPurple": "#6c71c4",
+    "brightRed": "#dc322f",
+    "brightWhite": "#002b36",
+    "brightYellow": "#b58900",
+    "cyan": "#2aa198",
+    "foreground": "#586e75",
+    "green": "#859900",
+    "purple": "#6c71c4",
+    "red": "#dc322f",
+    "white": "#586e75",
+    "yellow": "#b58900"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "base16-tomorrow-night",
+    "background": "#1d1f21",
+    "black": "#1d1f21",
+    "blue": "#81a2be",
+    "brightBlack": "#969896",
+    "brightBlue": "#81a2be",
+    "brightCyan": "#8abeb7",
+    "brightGreen": "#b5bd68",
+    "brightPurple": "#b294bb",
+    "brightRed": "#cc6666",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#f0c674",
+    "cyan": "#8abeb7",
+    "foreground": "#c5c8c6",
+    "green": "#b5bd68",
+    "purple": "#b294bb",
+    "red": "#cc6666",
+    "white": "#c5c8c6",
+    "yellow": "#f0c674"
+}

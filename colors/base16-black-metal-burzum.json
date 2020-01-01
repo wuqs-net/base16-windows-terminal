@@ -1,0 +1,21 @@
+{
+    "name": "base16-black-metal-burzum",
+    "background": "#000000",
+    "black": "#000000",
+    "blue": "#888888",
+    "brightBlack": "#333333",
+    "brightBlue": "#888888",
+    "brightCyan": "#aaaaaa",
+    "brightGreen": "#ddeecc",
+    "brightPurple": "#999999",
+    "brightRed": "#5f8787",
+    "brightWhite": "#c1c1c1",
+    "brightYellow": "#99bbaa",
+    "cyan": "#aaaaaa",
+    "foreground": "#c1c1c1",
+    "green": "#ddeecc",
+    "purple": "#999999",
+    "red": "#5f8787",
+    "white": "#c1c1c1",
+    "yellow": "#99bbaa"
+}

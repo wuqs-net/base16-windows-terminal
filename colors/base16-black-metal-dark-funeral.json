@@ -1,0 +1,21 @@
+{
+    "name": "base16-black-metal-dark-funeral",
+    "background": "#000000",
+    "black": "#000000",
+    "blue": "#888888",
+    "brightBlack": "#333333",
+    "brightBlue": "#888888",
+    "brightCyan": "#aaaaaa",
+    "brightGreen": "#d0dfee",
+    "brightPurple": "#999999",
+    "brightRed": "#5f8787",
+    "brightWhite": "#c1c1c1",
+    "brightYellow": "#5f81a5",
+    "cyan": "#aaaaaa",
+    "foreground": "#c1c1c1",
+    "green": "#d0dfee",
+    "purple": "#999999",
+    "red": "#5f8787",
+    "white": "#c1c1c1",
+    "yellow": "#5f81a5"
+}

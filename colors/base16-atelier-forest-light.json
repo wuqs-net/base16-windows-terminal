@@ -1,0 +1,21 @@
+{
+    "name": "base16-atelier-forest-light",
+    "background": "#f1efee",
+    "black": "#f1efee",
+    "blue": "#407ee7",
+    "brightBlack": "#9c9491",
+    "brightBlue": "#407ee7",
+    "brightCyan": "#3d97b8",
+    "brightGreen": "#7b9726",
+    "brightPurple": "#6666ea",
+    "brightRed": "#f22c40",
+    "brightWhite": "#1b1918",
+    "brightYellow": "#c38418",
+    "cyan": "#3d97b8",
+    "foreground": "#68615e",
+    "green": "#7b9726",
+    "purple": "#6666ea",
+    "red": "#f22c40",
+    "white": "#68615e",
+    "yellow": "#c38418"
+}

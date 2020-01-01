@@ -1,0 +1,21 @@
+{
+    "name": "base16-material-vivid",
+    "background": "#202124",
+    "black": "#202124",
+    "blue": "#2196f3",
+    "brightBlack": "#44464d",
+    "brightBlue": "#2196f3",
+    "brightCyan": "#00bcd4",
+    "brightGreen": "#00e676",
+    "brightPurple": "#673ab7",
+    "brightRed": "#f44336",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#ffeb3b",
+    "cyan": "#00bcd4",
+    "foreground": "#80868b",
+    "green": "#00e676",
+    "purple": "#673ab7",
+    "red": "#f44336",
+    "white": "#80868b",
+    "yellow": "#ffeb3b"
+}

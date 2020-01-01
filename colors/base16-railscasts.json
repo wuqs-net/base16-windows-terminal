@@ -1,0 +1,21 @@
+{
+    "name": "base16-railscasts",
+    "background": "#2b2b2b",
+    "black": "#2b2b2b",
+    "blue": "#6d9cbe",
+    "brightBlack": "#5a647e",
+    "brightBlue": "#6d9cbe",
+    "brightCyan": "#519f50",
+    "brightGreen": "#a5c261",
+    "brightPurple": "#b6b3eb",
+    "brightRed": "#da4939",
+    "brightWhite": "#f9f7f3",
+    "brightYellow": "#ffc66d",
+    "cyan": "#519f50",
+    "foreground": "#e6e1dc",
+    "green": "#a5c261",
+    "purple": "#b6b3eb",
+    "red": "#da4939",
+    "white": "#e6e1dc",
+    "yellow": "#ffc66d"
+}

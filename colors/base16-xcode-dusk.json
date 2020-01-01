@@ -1,0 +1,21 @@
+{
+    "name": "base16-xcode-dusk",
+    "background": "#282B35",
+    "black": "#282B35",
+    "blue": "#790EAD",
+    "brightBlack": "#686A71",
+    "brightBlue": "#790EAD",
+    "brightCyan": "#00A0BE",
+    "brightGreen": "#DF0002",
+    "brightPurple": "#B21889",
+    "brightRed": "#B21889",
+    "brightWhite": "#BEBFC2",
+    "brightYellow": "#438288",
+    "cyan": "#00A0BE",
+    "foreground": "#939599",
+    "green": "#DF0002",
+    "purple": "#B21889",
+    "red": "#B21889",
+    "white": "#939599",
+    "yellow": "#438288"
+}

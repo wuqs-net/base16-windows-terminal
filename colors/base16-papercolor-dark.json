@@ -1,0 +1,21 @@
+{
+    "name": "base16-papercolor-dark",
+    "background": "#1c1c1c",
+    "black": "#1c1c1c",
+    "blue": "#ff5faf",
+    "brightBlack": "#d7af5f",
+    "brightBlue": "#ff5faf",
+    "brightCyan": "#ffaf00",
+    "brightGreen": "#af87d7",
+    "brightPurple": "#00afaf",
+    "brightRed": "#585858",
+    "brightWhite": "#d0d0d0",
+    "brightYellow": "#afd700",
+    "cyan": "#ffaf00",
+    "foreground": "#808080",
+    "green": "#af87d7",
+    "purple": "#00afaf",
+    "red": "#585858",
+    "white": "#808080",
+    "yellow": "#afd700"
+}

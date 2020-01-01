@@ -1,0 +1,21 @@
+{
+    "name": "base16-gruvbox-light-medium",
+    "background": "#fbf1c7",
+    "black": "#fbf1c7",
+    "blue": "#076678",
+    "brightBlack": "#bdae93",
+    "brightBlue": "#076678",
+    "brightCyan": "#427b58",
+    "brightGreen": "#79740e",
+    "brightPurple": "#8f3f71",
+    "brightRed": "#9d0006",
+    "brightWhite": "#282828",
+    "brightYellow": "#b57614",
+    "cyan": "#427b58",
+    "foreground": "#504945",
+    "green": "#79740e",
+    "purple": "#8f3f71",
+    "red": "#9d0006",
+    "white": "#504945",
+    "yellow": "#b57614"
+}

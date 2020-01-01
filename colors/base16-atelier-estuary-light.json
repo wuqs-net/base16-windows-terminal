@@ -1,0 +1,21 @@
+{
+    "name": "base16-atelier-estuary-light",
+    "background": "#f4f3ec",
+    "black": "#f4f3ec",
+    "blue": "#36a166",
+    "brightBlack": "#878573",
+    "brightBlue": "#36a166",
+    "brightCyan": "#5b9d48",
+    "brightGreen": "#7d9726",
+    "brightPurple": "#5f9182",
+    "brightRed": "#ba6236",
+    "brightWhite": "#22221b",
+    "brightYellow": "#a5980d",
+    "cyan": "#5b9d48",
+    "foreground": "#5f5e4e",
+    "green": "#7d9726",
+    "purple": "#5f9182",
+    "red": "#ba6236",
+    "white": "#5f5e4e",
+    "yellow": "#a5980d"
+}

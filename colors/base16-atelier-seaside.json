@@ -1,0 +1,21 @@
+{
+    "name": "base16-atelier-seaside",
+    "background": "#131513",
+    "black": "#131513",
+    "blue": "#3d62f5",
+    "brightBlack": "#687d68",
+    "brightBlue": "#3d62f5",
+    "brightCyan": "#1999b3",
+    "brightGreen": "#29a329",
+    "brightPurple": "#ad2bee",
+    "brightRed": "#e6193c",
+    "brightWhite": "#f4fbf4",
+    "brightYellow": "#98981b",
+    "cyan": "#1999b3",
+    "foreground": "#8ca68c",
+    "green": "#29a329",
+    "purple": "#ad2bee",
+    "red": "#e6193c",
+    "white": "#8ca68c",
+    "yellow": "#98981b"
+}

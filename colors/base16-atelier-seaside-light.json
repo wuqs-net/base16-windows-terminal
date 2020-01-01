@@ -1,0 +1,21 @@
+{
+    "name": "base16-atelier-seaside-light",
+    "background": "#f4fbf4",
+    "black": "#f4fbf4",
+    "blue": "#3d62f5",
+    "brightBlack": "#809980",
+    "brightBlue": "#3d62f5",
+    "brightCyan": "#1999b3",
+    "brightGreen": "#29a329",
+    "brightPurple": "#ad2bee",
+    "brightRed": "#e6193c",
+    "brightWhite": "#131513",
+    "brightYellow": "#98981b",
+    "cyan": "#1999b3",
+    "foreground": "#5e6e5e",
+    "green": "#29a329",
+    "purple": "#ad2bee",
+    "red": "#e6193c",
+    "white": "#5e6e5e",
+    "yellow": "#98981b"
+}

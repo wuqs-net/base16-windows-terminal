@@ -1,0 +1,21 @@
+{
+    "name": "base16-tomorrow",
+    "background": "#ffffff",
+    "black": "#ffffff",
+    "blue": "#4271ae",
+    "brightBlack": "#8e908c",
+    "brightBlue": "#4271ae",
+    "brightCyan": "#3e999f",
+    "brightGreen": "#718c00",
+    "brightPurple": "#8959a8",
+    "brightRed": "#c82829",
+    "brightWhite": "#1d1f21",
+    "brightYellow": "#eab700",
+    "cyan": "#3e999f",
+    "foreground": "#4d4d4c",
+    "green": "#718c00",
+    "purple": "#8959a8",
+    "red": "#c82829",
+    "white": "#4d4d4c",
+    "yellow": "#eab700"
+}

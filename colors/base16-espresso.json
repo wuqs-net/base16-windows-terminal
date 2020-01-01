@@ -1,0 +1,21 @@
+{
+    "name": "base16-espresso",
+    "background": "#2d2d2d",
+    "black": "#2d2d2d",
+    "blue": "#6c99bb",
+    "brightBlack": "#777777",
+    "brightBlue": "#6c99bb",
+    "brightCyan": "#bed6ff",
+    "brightGreen": "#a5c261",
+    "brightPurple": "#d197d9",
+    "brightRed": "#d25252",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#ffc66d",
+    "cyan": "#bed6ff",
+    "foreground": "#cccccc",
+    "green": "#a5c261",
+    "purple": "#d197d9",
+    "red": "#d25252",
+    "white": "#cccccc",
+    "yellow": "#ffc66d"
+}
