@@ -1,0 +1,22 @@
+{
+    "name": "base16-humanoid-dark",
+    "background": "#232629",
+    "selectionBackground": "#484e54",
+    "black": "#232629",
+    "blue": "#00a6fb",
+    "brightBlack": "#60615d",
+    "brightBlue": "#c0c0bd",
+    "brightCyan": "#b27701",
+    "brightGreen": "#333b3d",
+    "brightPurple": "#fcfcf6",
+    "brightRed": "#ff9505",
+    "brightWhite": "#fcfcfc",
+    "brightYellow": "#484e54",
+    "cyan": "#0dd9d6",
+    "foreground": "#f8f8f2",
+    "green": "#02d849",
+    "purple": "#f15ee3",
+    "red": "#f11235",
+    "white": "#f8f8f2",
+    "yellow": "#ffb627"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-equilibrium-gray-dark",
+    "background": "#111111",
+    "selectionBackground": "#262626",
+    "black": "#111111",
+    "blue": "#008dd1",
+    "brightBlack": "#777777",
+    "brightBlue": "#919191",
+    "brightCyan": "#e3488e",
+    "brightGreen": "#1b1b1b",
+    "brightPurple": "#c6c6c6",
+    "brightRed": "#df5923",
+    "brightWhite": "#e2e2e2",
+    "brightYellow": "#262626",
+    "cyan": "#00948b",
+    "foreground": "#ababab",
+    "green": "#7f8b00",
+    "purple": "#6a7fd2",
+    "red": "#f04339",
+    "white": "#ababab",
+    "yellow": "#bb8801"
+}
