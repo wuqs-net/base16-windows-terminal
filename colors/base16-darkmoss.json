@@ -1,0 +1,22 @@
+{
+    "name": "base16-darkmoss",
+    "background": "#171e1f",
+    "selectionBackground": "#373c3d",
+    "black": "#171e1f",
+    "blue": "#498091",
+    "brightBlack": "#555e5f",
+    "brightBlue": "#818f80",
+    "brightCyan": "#d27b53",
+    "brightGreen": "#252c2d",
+    "brightPurple": "#e3e3c8",
+    "brightRed": "#e6db74",
+    "brightWhite": "#e1eaef",
+    "brightYellow": "#373c3d",
+    "cyan": "#66d9ef",
+    "foreground": "#c7c7a5",
+    "green": "#499180",
+    "purple": "#9bc0c8",
+    "red": "#ff4658",
+    "white": "#c7c7a5",
+    "yellow": "#fdb11f"
+}
