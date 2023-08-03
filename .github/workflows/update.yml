@@ -27,7 +27,7 @@ jobs:
           [ -f schemes/vice/vice.yaml ] && sed -ri 's/"#([0-9a-f]+)"/"\1"/g' schemes/vice/vice.yaml
       - name: Build
         run: |
-          rm -r colors
+          rm -rf colors
           pybase16 build -t windows-terminal
           mv output/windows-terminal/colors colors
       - name: Commit
