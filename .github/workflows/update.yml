@@ -10,14 +10,13 @@ on:
 
 jobs:
   update:
-    name: Update Color Schemes
+    name: Update Colors
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          cache: pip
       - run: pip install pybase16-builder
       - name: Update Builder
         run: |
