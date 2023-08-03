@@ -1,0 +1,23 @@
+{
+    "name": "Base16 XCode Dusk 256",
+    "foreground": "#939599",
+    "background": "#282B35",
+    "cursorColor": "#939599",
+    "selectionBackground": "#53555D",
+    "black": "#282B35",
+    "red": "#B21889",
+    "green": "#DF0002",
+    "yellow": "#438288",
+    "blue": "#790EAD",
+    "purple": "#B21889",
+    "cyan": "#00A0BE",
+    "white": "#939599",
+    "brightBlack": "#686A71",
+    "brightRed": "#B21889",
+    "brightGreen": "#DF0002",
+    "brightYellow": "#438288",
+    "brightBlue": "#790EAD",
+    "brightPurple": "#B21889",
+    "brightCyan": "#00A0BE",
+    "brightWhite": "#BEBFC2"
+}

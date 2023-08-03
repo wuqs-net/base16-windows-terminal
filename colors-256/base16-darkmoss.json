@@ -1,0 +1,23 @@
+{
+    "name": "Base16 darkmoss 256",
+    "foreground": "#c7c7a5",
+    "background": "#171e1f",
+    "cursorColor": "#c7c7a5",
+    "selectionBackground": "#373c3d",
+    "black": "#171e1f",
+    "red": "#ff4658",
+    "green": "#499180",
+    "yellow": "#fdb11f",
+    "blue": "#498091",
+    "purple": "#9bc0c8",
+    "cyan": "#66d9ef",
+    "white": "#c7c7a5",
+    "brightBlack": "#555e5f",
+    "brightRed": "#ff4658",
+    "brightGreen": "#499180",
+    "brightYellow": "#fdb11f",
+    "brightBlue": "#498091",
+    "brightPurple": "#9bc0c8",
+    "brightCyan": "#66d9ef",
+    "brightWhite": "#e1eaef"
+}

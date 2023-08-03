@@ -1,0 +1,23 @@
+{
+    "name": "Base16 PaperColor Light 256",
+    "foreground": "#444444",
+    "background": "#eeeeee",
+    "cursorColor": "#444444",
+    "selectionBackground": "#008700",
+    "black": "#eeeeee",
+    "red": "#bcbcbc",
+    "green": "#8700af",
+    "yellow": "#d70087",
+    "blue": "#d75f00",
+    "purple": "#005faf",
+    "cyan": "#d75f00",
+    "white": "#444444",
+    "brightBlack": "#5f8700",
+    "brightRed": "#bcbcbc",
+    "brightGreen": "#8700af",
+    "brightYellow": "#d70087",
+    "brightBlue": "#d75f00",
+    "brightPurple": "#005faf",
+    "brightCyan": "#d75f00",
+    "brightWhite": "#878787"
+}

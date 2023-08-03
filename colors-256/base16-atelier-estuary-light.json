@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Estuary Light 256",
+    "foreground": "#5f5e4e",
+    "background": "#f4f3ec",
+    "cursorColor": "#5f5e4e",
+    "selectionBackground": "#929181",
+    "black": "#f4f3ec",
+    "red": "#ba6236",
+    "green": "#7d9726",
+    "yellow": "#a5980d",
+    "blue": "#36a166",
+    "purple": "#5f9182",
+    "cyan": "#5b9d48",
+    "white": "#5f5e4e",
+    "brightBlack": "#878573",
+    "brightRed": "#ba6236",
+    "brightGreen": "#7d9726",
+    "brightYellow": "#a5980d",
+    "brightBlue": "#36a166",
+    "brightPurple": "#5f9182",
+    "brightCyan": "#5b9d48",
+    "brightWhite": "#22221b"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 OneDark 256",
+    "foreground": "#abb2bf",
+    "background": "#282c34",
+    "cursorColor": "#abb2bf",
+    "selectionBackground": "#3e4451",
+    "black": "#282c34",
+    "red": "#e06c75",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "blue": "#61afef",
+    "purple": "#c678dd",
+    "cyan": "#56b6c2",
+    "white": "#abb2bf",
+    "brightBlack": "#545862",
+    "brightRed": "#e06c75",
+    "brightGreen": "#98c379",
+    "brightYellow": "#e5c07b",
+    "brightBlue": "#61afef",
+    "brightPurple": "#c678dd",
+    "brightCyan": "#56b6c2",
+    "brightWhite": "#c8ccd4"
+}

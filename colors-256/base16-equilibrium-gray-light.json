@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Equilibrium Gray Light 256",
+    "foreground": "#474747",
+    "background": "#f1f1f1",
+    "cursorColor": "#474747",
+    "selectionBackground": "#d4d4d4",
+    "black": "#f1f1f1",
+    "red": "#d02023",
+    "green": "#637200",
+    "yellow": "#9d6f00",
+    "blue": "#0073b5",
+    "purple": "#4e66b6",
+    "cyan": "#007a72",
+    "white": "#474747",
+    "brightBlack": "#777777",
+    "brightRed": "#d02023",
+    "brightGreen": "#637200",
+    "brightYellow": "#9d6f00",
+    "brightBlue": "#0073b5",
+    "brightPurple": "#4e66b6",
+    "brightCyan": "#007a72",
+    "brightWhite": "#1b1b1b"
+}

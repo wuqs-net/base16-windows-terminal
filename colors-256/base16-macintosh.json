@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Macintosh 256",
+    "foreground": "#c0c0c0",
+    "background": "#000000",
+    "cursorColor": "#c0c0c0",
+    "selectionBackground": "#404040",
+    "black": "#000000",
+    "red": "#dd0907",
+    "green": "#1fb714",
+    "yellow": "#fbf305",
+    "blue": "#0000d3",
+    "purple": "#4700a5",
+    "cyan": "#02abea",
+    "white": "#c0c0c0",
+    "brightBlack": "#808080",
+    "brightRed": "#dd0907",
+    "brightGreen": "#1fb714",
+    "brightYellow": "#fbf305",
+    "brightBlue": "#0000d3",
+    "brightPurple": "#4700a5",
+    "brightCyan": "#02abea",
+    "brightWhite": "#ffffff"
+}

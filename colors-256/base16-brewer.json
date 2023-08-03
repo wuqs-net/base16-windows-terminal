@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Brewer 256",
+    "foreground": "#b7b8b9",
+    "background": "#0c0d0e",
+    "cursorColor": "#b7b8b9",
+    "selectionBackground": "#515253",
+    "black": "#0c0d0e",
+    "red": "#e31a1c",
+    "green": "#31a354",
+    "yellow": "#dca060",
+    "blue": "#3182bd",
+    "purple": "#756bb1",
+    "cyan": "#80b1d3",
+    "white": "#b7b8b9",
+    "brightBlack": "#737475",
+    "brightRed": "#e31a1c",
+    "brightGreen": "#31a354",
+    "brightYellow": "#dca060",
+    "brightBlue": "#3182bd",
+    "brightPurple": "#756bb1",
+    "brightCyan": "#80b1d3",
+    "brightWhite": "#fcfdfe"
+}

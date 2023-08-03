@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Humanoid dark 256",
+    "foreground": "#f8f8f2",
+    "background": "#232629",
+    "cursorColor": "#f8f8f2",
+    "selectionBackground": "#484e54",
+    "black": "#232629",
+    "red": "#f11235",
+    "green": "#02d849",
+    "yellow": "#ffb627",
+    "blue": "#00a6fb",
+    "purple": "#f15ee3",
+    "cyan": "#0dd9d6",
+    "white": "#f8f8f2",
+    "brightBlack": "#60615d",
+    "brightRed": "#f11235",
+    "brightGreen": "#02d849",
+    "brightYellow": "#ffb627",
+    "brightBlue": "#00a6fb",
+    "brightPurple": "#f15ee3",
+    "brightCyan": "#0dd9d6",
+    "brightWhite": "#fcfcfc"
+}

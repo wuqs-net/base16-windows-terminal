@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Classic Light 256",
+    "foreground": "#303030",
+    "background": "#F5F5F5",
+    "cursorColor": "#303030",
+    "selectionBackground": "#D0D0D0",
+    "black": "#F5F5F5",
+    "red": "#AC4142",
+    "green": "#90A959",
+    "yellow": "#F4BF75",
+    "blue": "#6A9FB5",
+    "purple": "#AA759F",
+    "cyan": "#75B5AA",
+    "white": "#303030",
+    "brightBlack": "#B0B0B0",
+    "brightRed": "#AC4142",
+    "brightGreen": "#90A959",
+    "brightYellow": "#F4BF75",
+    "brightBlue": "#6A9FB5",
+    "brightPurple": "#AA759F",
+    "brightCyan": "#75B5AA",
+    "brightWhite": "#151515"
+}

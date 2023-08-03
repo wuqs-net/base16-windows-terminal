@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Chalk 256",
+    "foreground": "#d0d0d0",
+    "background": "#151515",
+    "cursorColor": "#d0d0d0",
+    "selectionBackground": "#303030",
+    "black": "#151515",
+    "red": "#fb9fb1",
+    "green": "#acc267",
+    "yellow": "#ddb26f",
+    "blue": "#6fc2ef",
+    "purple": "#e1a3ee",
+    "cyan": "#12cfc0",
+    "white": "#d0d0d0",
+    "brightBlack": "#505050",
+    "brightRed": "#fb9fb1",
+    "brightGreen": "#acc267",
+    "brightYellow": "#ddb26f",
+    "brightBlue": "#6fc2ef",
+    "brightPurple": "#e1a3ee",
+    "brightCyan": "#12cfc0",
+    "brightWhite": "#f5f5f5"
+}

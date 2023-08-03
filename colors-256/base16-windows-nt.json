@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Windows NT 256",
+    "foreground": "#c0c0c0",
+    "background": "#000000",
+    "cursorColor": "#c0c0c0",
+    "selectionBackground": "#555555",
+    "black": "#000000",
+    "red": "#ff0000",
+    "green": "#00ff00",
+    "yellow": "#ffff00",
+    "blue": "#0000ff",
+    "purple": "#ff00ff",
+    "cyan": "#00ffff",
+    "white": "#c0c0c0",
+    "brightBlack": "#808080",
+    "brightRed": "#ff0000",
+    "brightGreen": "#00ff00",
+    "brightYellow": "#ffff00",
+    "brightBlue": "#0000ff",
+    "brightPurple": "#ff00ff",
+    "brightCyan": "#00ffff",
+    "brightWhite": "#ffffff"
+}

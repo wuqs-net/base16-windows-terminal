@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Google Dark 256",
+    "foreground": "#c5c8c6",
+    "background": "#1d1f21",
+    "cursorColor": "#c5c8c6",
+    "selectionBackground": "#373b41",
+    "black": "#1d1f21",
+    "red": "#CC342B",
+    "green": "#198844",
+    "yellow": "#FBA922",
+    "blue": "#3971ED",
+    "purple": "#A36AC7",
+    "cyan": "#3971ED",
+    "white": "#c5c8c6",
+    "brightBlack": "#969896",
+    "brightRed": "#CC342B",
+    "brightGreen": "#198844",
+    "brightYellow": "#FBA922",
+    "brightBlue": "#3971ED",
+    "brightPurple": "#A36AC7",
+    "brightCyan": "#3971ED",
+    "brightWhite": "#ffffff"
+}

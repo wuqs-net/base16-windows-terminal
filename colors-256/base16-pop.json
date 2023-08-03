@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Pop 256",
+    "foreground": "#d0d0d0",
+    "background": "#000000",
+    "cursorColor": "#d0d0d0",
+    "selectionBackground": "#303030",
+    "black": "#000000",
+    "red": "#eb008a",
+    "green": "#37b349",
+    "yellow": "#f8ca12",
+    "blue": "#0e5a94",
+    "purple": "#b31e8d",
+    "cyan": "#00aabb",
+    "white": "#d0d0d0",
+    "brightBlack": "#505050",
+    "brightRed": "#eb008a",
+    "brightGreen": "#37b349",
+    "brightYellow": "#f8ca12",
+    "brightBlue": "#0e5a94",
+    "brightPurple": "#b31e8d",
+    "brightCyan": "#00aabb",
+    "brightWhite": "#ffffff"
+}

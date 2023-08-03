@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Heath 256",
+    "foreground": "#ab9bab",
+    "background": "#1b181b",
+    "cursorColor": "#ab9bab",
+    "selectionBackground": "#695d69",
+    "black": "#1b181b",
+    "red": "#ca402b",
+    "green": "#918b3b",
+    "yellow": "#bb8a35",
+    "blue": "#516aec",
+    "purple": "#7b59c0",
+    "cyan": "#159393",
+    "white": "#ab9bab",
+    "brightBlack": "#776977",
+    "brightRed": "#ca402b",
+    "brightGreen": "#918b3b",
+    "brightYellow": "#bb8a35",
+    "brightBlue": "#516aec",
+    "brightPurple": "#7b59c0",
+    "brightCyan": "#159393",
+    "brightWhite": "#f7f3f7"
+}

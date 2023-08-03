@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Cupertino 256",
+    "foreground": "#404040",
+    "background": "#ffffff",
+    "cursorColor": "#404040",
+    "selectionBackground": "#c0c0c0",
+    "black": "#ffffff",
+    "red": "#c41a15",
+    "green": "#007400",
+    "yellow": "#826b28",
+    "blue": "#0000ff",
+    "purple": "#a90d91",
+    "cyan": "#318495",
+    "white": "#404040",
+    "brightBlack": "#808080",
+    "brightRed": "#c41a15",
+    "brightGreen": "#007400",
+    "brightYellow": "#826b28",
+    "brightBlue": "#0000ff",
+    "brightPurple": "#a90d91",
+    "brightCyan": "#318495",
+    "brightWhite": "#5e5e5e"
+}

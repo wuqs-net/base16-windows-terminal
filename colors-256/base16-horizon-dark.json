@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Horizon Dark 256",
+    "foreground": "#CBCED0",
+    "background": "#1C1E26",
+    "cursorColor": "#CBCED0",
+    "selectionBackground": "#2E303E",
+    "black": "#1C1E26",
+    "red": "#E93C58",
+    "green": "#EFAF8E",
+    "yellow": "#EFB993",
+    "blue": "#DF5273",
+    "purple": "#B072D1",
+    "cyan": "#24A8B4",
+    "white": "#CBCED0",
+    "brightBlack": "#6F6F70",
+    "brightRed": "#E93C58",
+    "brightGreen": "#EFAF8E",
+    "brightYellow": "#EFB993",
+    "brightBlue": "#DF5273",
+    "brightPurple": "#B072D1",
+    "brightCyan": "#24A8B4",
+    "brightWhite": "#E3E6EE"
+}

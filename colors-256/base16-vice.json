@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Vice Dark 256",
+    "foreground": "#818181",
+    "background": "#181818",
+    "cursorColor": "#818181",
+    "selectionBackground": "#323232",
+    "black": "#181818",
+    "red": "#ff29a8",
+    "green": "#0badff",
+    "yellow": "#f0ffaa",
+    "blue": "#00eaff",
+    "purple": "#00f6d9",
+    "cyan": "#8265ff",
+    "white": "#818181",
+    "brightBlack": "#3f3f3f",
+    "brightRed": "#ff29a8",
+    "brightGreen": "#0badff",
+    "brightYellow": "#f0ffaa",
+    "brightBlue": "#00eaff",
+    "brightPurple": "#00f6d9",
+    "brightCyan": "#8265ff",
+    "brightWhite": "#e9e9e9"
+}

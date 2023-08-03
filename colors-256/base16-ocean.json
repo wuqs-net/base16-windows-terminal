@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Ocean 256",
+    "foreground": "#c0c5ce",
+    "background": "#2b303b",
+    "cursorColor": "#c0c5ce",
+    "selectionBackground": "#4f5b66",
+    "black": "#2b303b",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#8fa1b3",
+    "purple": "#b48ead",
+    "cyan": "#96b5b4",
+    "white": "#c0c5ce",
+    "brightBlack": "#65737e",
+    "brightRed": "#bf616a",
+    "brightGreen": "#a3be8c",
+    "brightYellow": "#ebcb8b",
+    "brightBlue": "#8fa1b3",
+    "brightPurple": "#b48ead",
+    "brightCyan": "#96b5b4",
+    "brightWhite": "#eff1f5"
+}

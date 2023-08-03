@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Sulphurpool 256",
+    "foreground": "#979db4",
+    "background": "#202746",
+    "cursorColor": "#979db4",
+    "selectionBackground": "#5e6687",
+    "black": "#202746",
+    "red": "#c94922",
+    "green": "#ac9739",
+    "yellow": "#c08b30",
+    "blue": "#3d8fd1",
+    "purple": "#6679cc",
+    "cyan": "#22a2c9",
+    "white": "#979db4",
+    "brightBlack": "#6b7394",
+    "brightRed": "#c94922",
+    "brightGreen": "#ac9739",
+    "brightYellow": "#c08b30",
+    "brightBlue": "#3d8fd1",
+    "brightPurple": "#6679cc",
+    "brightCyan": "#22a2c9",
+    "brightWhite": "#f5f7ff"
+}

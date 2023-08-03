@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Seti UI 256",
+    "foreground": "#d6d6d6",
+    "background": "#151718",
+    "cursorColor": "#d6d6d6",
+    "selectionBackground": "#3B758C",
+    "black": "#151718",
+    "red": "#Cd3f45",
+    "green": "#9fca56",
+    "yellow": "#e6cd69",
+    "blue": "#55b5db",
+    "purple": "#a074c4",
+    "cyan": "#55dbbe",
+    "white": "#d6d6d6",
+    "brightBlack": "#41535B",
+    "brightRed": "#Cd3f45",
+    "brightGreen": "#9fca56",
+    "brightYellow": "#e6cd69",
+    "brightBlue": "#55b5db",
+    "brightPurple": "#a074c4",
+    "brightCyan": "#55dbbe",
+    "brightWhite": "#ffffff"
+}

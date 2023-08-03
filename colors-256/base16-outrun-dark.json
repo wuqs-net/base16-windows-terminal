@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Outrun Dark 256",
+    "foreground": "#D0D0FA",
+    "background": "#00002A",
+    "cursorColor": "#D0D0FA",
+    "selectionBackground": "#30305A",
+    "black": "#00002A",
+    "red": "#FF4242",
+    "green": "#59F176",
+    "yellow": "#F3E877",
+    "blue": "#66B0FF",
+    "purple": "#F10596",
+    "cyan": "#0EF0F0",
+    "white": "#D0D0FA",
+    "brightBlack": "#50507A",
+    "brightRed": "#FF4242",
+    "brightGreen": "#59F176",
+    "brightYellow": "#F3E877",
+    "brightBlue": "#66B0FF",
+    "brightPurple": "#F10596",
+    "brightCyan": "#0EF0F0",
+    "brightWhite": "#F5F5FF"
+}

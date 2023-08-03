@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Cave 256",
+    "foreground": "#8b8792",
+    "background": "#19171c",
+    "cursorColor": "#8b8792",
+    "selectionBackground": "#585260",
+    "black": "#19171c",
+    "red": "#be4678",
+    "green": "#2a9292",
+    "yellow": "#a06e3b",
+    "blue": "#576ddb",
+    "purple": "#955ae7",
+    "cyan": "#398bc6",
+    "white": "#8b8792",
+    "brightBlack": "#655f6d",
+    "brightRed": "#be4678",
+    "brightGreen": "#2a9292",
+    "brightYellow": "#a06e3b",
+    "brightBlue": "#576ddb",
+    "brightPurple": "#955ae7",
+    "brightCyan": "#398bc6",
+    "brightWhite": "#efecf4"
+}

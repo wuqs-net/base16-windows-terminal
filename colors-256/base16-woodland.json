@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Woodland 256",
+    "foreground": "#cabcb1",
+    "background": "#231e18",
+    "cursorColor": "#cabcb1",
+    "selectionBackground": "#48413a",
+    "black": "#231e18",
+    "red": "#d35c5c",
+    "green": "#b7ba53",
+    "yellow": "#e0ac16",
+    "blue": "#88a4d3",
+    "purple": "#bb90e2",
+    "cyan": "#6eb958",
+    "white": "#cabcb1",
+    "brightBlack": "#9d8b70",
+    "brightRed": "#d35c5c",
+    "brightGreen": "#b7ba53",
+    "brightYellow": "#e0ac16",
+    "brightBlue": "#88a4d3",
+    "brightPurple": "#bb90e2",
+    "brightCyan": "#6eb958",
+    "brightWhite": "#e4d4c8"
+}

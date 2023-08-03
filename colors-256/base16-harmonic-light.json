@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Harmonic16 Light 256",
+    "foreground": "#405c79",
+    "background": "#f7f9fb",
+    "cursorColor": "#405c79",
+    "selectionBackground": "#cbd6e2",
+    "black": "#f7f9fb",
+    "red": "#bf8b56",
+    "green": "#56bf8b",
+    "yellow": "#8bbf56",
+    "blue": "#8b56bf",
+    "purple": "#bf568b",
+    "cyan": "#568bbf",
+    "white": "#405c79",
+    "brightBlack": "#aabcce",
+    "brightRed": "#bf8b56",
+    "brightGreen": "#56bf8b",
+    "brightYellow": "#8bbf56",
+    "brightBlue": "#8b56bf",
+    "brightPurple": "#bf568b",
+    "brightCyan": "#568bbf",
+    "brightWhite": "#0b1c2c"
+}

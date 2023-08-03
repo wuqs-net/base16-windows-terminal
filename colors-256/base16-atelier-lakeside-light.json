@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Lakeside Light 256",
+    "foreground": "#516d7b",
+    "background": "#ebf8ff",
+    "cursorColor": "#516d7b",
+    "selectionBackground": "#7ea2b4",
+    "black": "#ebf8ff",
+    "red": "#d22d72",
+    "green": "#568c3b",
+    "yellow": "#8a8a0f",
+    "blue": "#257fad",
+    "purple": "#6b6bb8",
+    "cyan": "#2d8f6f",
+    "white": "#516d7b",
+    "brightBlack": "#7195a8",
+    "brightRed": "#d22d72",
+    "brightGreen": "#568c3b",
+    "brightYellow": "#8a8a0f",
+    "brightBlue": "#257fad",
+    "brightPurple": "#6b6bb8",
+    "brightCyan": "#2d8f6f",
+    "brightWhite": "#161b1d"
+}

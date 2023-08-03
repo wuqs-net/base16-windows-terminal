@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Equilibrium Light 256",
+    "foreground": "#43474e",
+    "background": "#f5f0e7",
+    "cursorColor": "#43474e",
+    "selectionBackground": "#d8d4cb",
+    "black": "#f5f0e7",
+    "red": "#d02023",
+    "green": "#637200",
+    "yellow": "#9d6f00",
+    "blue": "#0073b5",
+    "purple": "#4e66b6",
+    "cyan": "#007a72",
+    "white": "#43474e",
+    "brightBlack": "#73777f",
+    "brightRed": "#d02023",
+    "brightGreen": "#637200",
+    "brightYellow": "#9d6f00",
+    "brightBlue": "#0073b5",
+    "brightPurple": "#4e66b6",
+    "brightCyan": "#007a72",
+    "brightWhite": "#181c22"
+}

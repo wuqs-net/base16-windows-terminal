@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Harmonic16 Dark 256",
+    "foreground": "#cbd6e2",
+    "background": "#0b1c2c",
+    "cursorColor": "#cbd6e2",
+    "selectionBackground": "#405c79",
+    "black": "#0b1c2c",
+    "red": "#bf8b56",
+    "green": "#56bf8b",
+    "yellow": "#8bbf56",
+    "blue": "#8b56bf",
+    "purple": "#bf568b",
+    "cyan": "#568bbf",
+    "white": "#cbd6e2",
+    "brightBlack": "#627e99",
+    "brightRed": "#bf8b56",
+    "brightGreen": "#56bf8b",
+    "brightYellow": "#8bbf56",
+    "brightBlue": "#8b56bf",
+    "brightPurple": "#bf568b",
+    "brightCyan": "#568bbf",
+    "brightWhite": "#f7f9fb"
+}

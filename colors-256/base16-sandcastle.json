@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Sandcastle 256",
+    "foreground": "#a89984",
+    "background": "#282c34",
+    "cursorColor": "#a89984",
+    "selectionBackground": "#3e4451",
+    "black": "#282c34",
+    "red": "#83a598",
+    "green": "#528b8b",
+    "yellow": "#a07e3b",
+    "blue": "#83a598",
+    "purple": "#d75f5f",
+    "cyan": "#83a598",
+    "white": "#a89984",
+    "brightBlack": "#665c54",
+    "brightRed": "#83a598",
+    "brightGreen": "#528b8b",
+    "brightYellow": "#a07e3b",
+    "brightBlue": "#83a598",
+    "brightPurple": "#d75f5f",
+    "brightCyan": "#83a598",
+    "brightWhite": "#fdf4c1"
+}

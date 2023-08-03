@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Pico 256",
+    "foreground": "#5f574f",
+    "background": "#000000",
+    "cursorColor": "#5f574f",
+    "selectionBackground": "#7e2553",
+    "black": "#000000",
+    "red": "#ff004d",
+    "green": "#00e756",
+    "yellow": "#fff024",
+    "blue": "#83769c",
+    "purple": "#ff77a8",
+    "cyan": "#29adff",
+    "white": "#5f574f",
+    "brightBlack": "#008751",
+    "brightRed": "#ff004d",
+    "brightGreen": "#00e756",
+    "brightYellow": "#fff024",
+    "brightBlue": "#83769c",
+    "brightPurple": "#ff77a8",
+    "brightCyan": "#29adff",
+    "brightWhite": "#fff1e8"
+}

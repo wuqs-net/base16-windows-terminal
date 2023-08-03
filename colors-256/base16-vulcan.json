@@ -1,0 +1,23 @@
+{
+    "name": "Base16 vulcan 256",
+    "foreground": "#5b778c",
+    "background": "#041523",
+    "cursorColor": "#5b778c",
+    "selectionBackground": "#003552",
+    "black": "#041523",
+    "red": "#818591",
+    "green": "#977d7c",
+    "yellow": "#adb4b9",
+    "blue": "#977d7c",
+    "purple": "#9198a3",
+    "cyan": "#977d7c",
+    "white": "#5b778c",
+    "brightBlack": "#7a5759",
+    "brightRed": "#818591",
+    "brightGreen": "#977d7c",
+    "brightYellow": "#adb4b9",
+    "brightBlue": "#977d7c",
+    "brightPurple": "#9198a3",
+    "brightCyan": "#977d7c",
+    "brightWhite": "#214d68"
+}

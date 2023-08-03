@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Equilibrium Gray Dark 256",
+    "foreground": "#ababab",
+    "background": "#111111",
+    "cursorColor": "#ababab",
+    "selectionBackground": "#262626",
+    "black": "#111111",
+    "red": "#f04339",
+    "green": "#7f8b00",
+    "yellow": "#bb8801",
+    "blue": "#008dd1",
+    "purple": "#6a7fd2",
+    "cyan": "#00948b",
+    "white": "#ababab",
+    "brightBlack": "#777777",
+    "brightRed": "#f04339",
+    "brightGreen": "#7f8b00",
+    "brightYellow": "#bb8801",
+    "brightBlue": "#008dd1",
+    "brightPurple": "#6a7fd2",
+    "brightCyan": "#00948b",
+    "brightWhite": "#e2e2e2"
+}

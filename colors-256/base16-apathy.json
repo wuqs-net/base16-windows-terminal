@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Apathy 256",
+    "foreground": "#81B5AC",
+    "background": "#031A16",
+    "cursorColor": "#81B5AC",
+    "selectionBackground": "#184E45",
+    "black": "#031A16",
+    "red": "#3E9688",
+    "green": "#883E96",
+    "yellow": "#3E4C96",
+    "blue": "#96883E",
+    "purple": "#4C963E",
+    "cyan": "#963E4C",
+    "white": "#81B5AC",
+    "brightBlack": "#2B685E",
+    "brightRed": "#3E9688",
+    "brightGreen": "#883E96",
+    "brightYellow": "#3E4C96",
+    "brightBlue": "#96883E",
+    "brightPurple": "#4C963E",
+    "brightCyan": "#963E4C",
+    "brightWhite": "#D2E7E4"
+}

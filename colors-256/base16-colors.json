@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Colors 256",
+    "foreground": "#bbbbbb",
+    "background": "#111111",
+    "cursorColor": "#bbbbbb",
+    "selectionBackground": "#555555",
+    "black": "#111111",
+    "red": "#ff4136",
+    "green": "#2ecc40",
+    "yellow": "#ffdc00",
+    "blue": "#0074d9",
+    "purple": "#b10dc9",
+    "cyan": "#7fdbff",
+    "white": "#bbbbbb",
+    "brightBlack": "#777777",
+    "brightRed": "#ff4136",
+    "brightGreen": "#2ecc40",
+    "brightYellow": "#ffdc00",
+    "brightBlue": "#0074d9",
+    "brightPurple": "#b10dc9",
+    "brightCyan": "#7fdbff",
+    "brightWhite": "#ffffff"
+}

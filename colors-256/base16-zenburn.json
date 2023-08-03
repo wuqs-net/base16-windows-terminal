@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Zenburn 256",
+    "foreground": "#dcdccc",
+    "background": "#383838",
+    "cursorColor": "#dcdccc",
+    "selectionBackground": "#606060",
+    "black": "#383838",
+    "red": "#dca3a3",
+    "green": "#5f7f5f",
+    "yellow": "#e0cf9f",
+    "blue": "#7cb8bb",
+    "purple": "#dc8cc3",
+    "cyan": "#93e0e3",
+    "white": "#dcdccc",
+    "brightBlack": "#6f6f6f",
+    "brightRed": "#dca3a3",
+    "brightGreen": "#5f7f5f",
+    "brightYellow": "#e0cf9f",
+    "brightBlue": "#7cb8bb",
+    "brightPurple": "#dc8cc3",
+    "brightCyan": "#93e0e3",
+    "brightWhite": "#ffffff"
+}

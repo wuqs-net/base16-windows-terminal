@@ -1,0 +1,23 @@
+{
+    "name": "Base16 DanQing 256",
+    "foreground": "#e0f0eF",
+    "background": "#2d302f",
+    "cursorColor": "#e0f0eF",
+    "selectionBackground": "#5a605d",
+    "black": "#2d302f",
+    "red": "#F9906F",
+    "green": "#8AB361",
+    "yellow": "#F0C239",
+    "blue": "#B0A4E3",
+    "purple": "#CCA4E3",
+    "cyan": "#30DFF3",
+    "white": "#e0f0eF",
+    "brightBlack": "#9da8a3",
+    "brightRed": "#F9906F",
+    "brightGreen": "#8AB361",
+    "brightYellow": "#F0C239",
+    "brightBlue": "#B0A4E3",
+    "brightPurple": "#CCA4E3",
+    "brightCyan": "#30DFF3",
+    "brightWhite": "#fcfefd"
+}

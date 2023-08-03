@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Heetch Light 256",
+    "foreground": "#5a496e",
+    "background": "#feffff",
+    "cursorColor": "#5a496e",
+    "selectionBackground": "#7b6d8b",
+    "black": "#feffff",
+    "red": "#27d9d5",
+    "green": "#f80059",
+    "yellow": "#5ba2b6",
+    "blue": "#47f9f5",
+    "purple": "#bd0152",
+    "cyan": "#c33678",
+    "white": "#5a496e",
+    "brightBlack": "#9c92a8",
+    "brightRed": "#27d9d5",
+    "brightGreen": "#f80059",
+    "brightYellow": "#5ba2b6",
+    "brightBlue": "#47f9f5",
+    "brightPurple": "#bd0152",
+    "brightCyan": "#c33678",
+    "brightWhite": "#190134"
+}

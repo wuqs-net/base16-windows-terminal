@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Tango 256",
+    "foreground": "#d3d7cf",
+    "background": "#2e3436",
+    "cursorColor": "#d3d7cf",
+    "selectionBackground": "#fce94f",
+    "black": "#2e3436",
+    "red": "#cc0000",
+    "green": "#4e9a06",
+    "yellow": "#c4a000",
+    "blue": "#3465a4",
+    "purple": "#75507b",
+    "cyan": "#06989a",
+    "white": "#d3d7cf",
+    "brightBlack": "#555753",
+    "brightRed": "#cc0000",
+    "brightGreen": "#4e9a06",
+    "brightYellow": "#c4a000",
+    "brightBlue": "#3465a4",
+    "brightPurple": "#75507b",
+    "brightCyan": "#06989a",
+    "brightWhite": "#eeeeec"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Shapeshifter 256",
+    "foreground": "#102015",
+    "background": "#f9f9f9",
+    "cursorColor": "#102015",
+    "selectionBackground": "#ababab",
+    "black": "#f9f9f9",
+    "red": "#e92f2f",
+    "green": "#0ed839",
+    "yellow": "#dddd13",
+    "blue": "#3b48e3",
+    "purple": "#f996e2",
+    "cyan": "#23edda",
+    "white": "#102015",
+    "brightBlack": "#555555",
+    "brightRed": "#e92f2f",
+    "brightGreen": "#0ed839",
+    "brightYellow": "#dddd13",
+    "brightBlue": "#3b48e3",
+    "brightPurple": "#f996e2",
+    "brightCyan": "#23edda",
+    "brightWhite": "#000000"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Heetch Dark 256",
+    "foreground": "#BDB6C5",
+    "background": "#190134",
+    "cursorColor": "#BDB6C5",
+    "selectionBackground": "#5A496E",
+    "black": "#190134",
+    "red": "#27D9D5",
+    "green": "#C33678",
+    "yellow": "#8F6C97",
+    "blue": "#BD0152",
+    "purple": "#82034C",
+    "cyan": "#F80059",
+    "white": "#BDB6C5",
+    "brightBlack": "#7B6D8B",
+    "brightRed": "#27D9D5",
+    "brightGreen": "#C33678",
+    "brightYellow": "#8F6C97",
+    "brightBlue": "#BD0152",
+    "brightPurple": "#82034C",
+    "brightCyan": "#F80059",
+    "brightWhite": "#FEFFFF"
+}

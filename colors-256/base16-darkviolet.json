@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Dark Violet 256",
+    "foreground": "#b08ae6",
+    "background": "#000000",
+    "cursorColor": "#b08ae6",
+    "selectionBackground": "#432d59",
+    "black": "#000000",
+    "red": "#a82ee6",
+    "green": "#4595e6",
+    "yellow": "#f29df2",
+    "blue": "#4136d9",
+    "purple": "#7e5ce6",
+    "cyan": "#40dfff",
+    "white": "#b08ae6",
+    "brightBlack": "#593380",
+    "brightRed": "#a82ee6",
+    "brightGreen": "#4595e6",
+    "brightYellow": "#f29df2",
+    "brightBlue": "#4136d9",
+    "brightPurple": "#7e5ce6",
+    "brightCyan": "#40dfff",
+    "brightWhite": "#a366ff"
+}

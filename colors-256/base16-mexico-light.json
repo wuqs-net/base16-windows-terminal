@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Mexico Light 256",
+    "foreground": "#383838",
+    "background": "#f8f8f8",
+    "cursorColor": "#383838",
+    "selectionBackground": "#d8d8d8",
+    "black": "#f8f8f8",
+    "red": "#ab4642",
+    "green": "#538947",
+    "yellow": "#f79a0e",
+    "blue": "#7cafc2",
+    "purple": "#96609e",
+    "cyan": "#4b8093",
+    "white": "#383838",
+    "brightBlack": "#b8b8b8",
+    "brightRed": "#ab4642",
+    "brightGreen": "#538947",
+    "brightYellow": "#f79a0e",
+    "brightBlue": "#7cafc2",
+    "brightPurple": "#96609e",
+    "brightCyan": "#4b8093",
+    "brightWhite": "#181818"
+}

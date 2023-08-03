@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atlas 256",
+    "foreground": "#a1a19a",
+    "background": "#002635",
+    "cursorColor": "#a1a19a",
+    "selectionBackground": "#517F8D",
+    "black": "#002635",
+    "red": "#ff5a67",
+    "green": "#7fc06e",
+    "yellow": "#ffcc1b",
+    "blue": "#5dd7b9",
+    "purple": "#9a70a4",
+    "cyan": "#14747e",
+    "white": "#a1a19a",
+    "brightBlack": "#6C8B91",
+    "brightRed": "#ff5a67",
+    "brightGreen": "#7fc06e",
+    "brightYellow": "#ffcc1b",
+    "brightBlue": "#5dd7b9",
+    "brightPurple": "#9a70a4",
+    "brightCyan": "#14747e",
+    "brightWhite": "#fafaf8"
+}

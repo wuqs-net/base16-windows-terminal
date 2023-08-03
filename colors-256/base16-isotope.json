@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Isotope 256",
+    "foreground": "#d0d0d0",
+    "background": "#000000",
+    "cursorColor": "#d0d0d0",
+    "selectionBackground": "#606060",
+    "black": "#000000",
+    "red": "#ff0000",
+    "green": "#33ff00",
+    "yellow": "#ff0099",
+    "blue": "#0066ff",
+    "purple": "#cc00ff",
+    "cyan": "#00ffff",
+    "white": "#d0d0d0",
+    "brightBlack": "#808080",
+    "brightRed": "#ff0000",
+    "brightGreen": "#33ff00",
+    "brightYellow": "#ff0099",
+    "brightBlue": "#0066ff",
+    "brightPurple": "#cc00ff",
+    "brightCyan": "#00ffff",
+    "brightWhite": "#ffffff"
+}

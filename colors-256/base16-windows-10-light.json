@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Windows 10 Light 256",
+    "foreground": "#767676",
+    "background": "#f2f2f2",
+    "cursorColor": "#767676",
+    "selectionBackground": "#d9d9d9",
+    "black": "#f2f2f2",
+    "red": "#c50f1f",
+    "green": "#13a10e",
+    "yellow": "#c19c00",
+    "blue": "#0037da",
+    "purple": "#881798",
+    "cyan": "#3a96dd",
+    "white": "#767676",
+    "brightBlack": "#cccccc",
+    "brightRed": "#c50f1f",
+    "brightGreen": "#13a10e",
+    "brightYellow": "#c19c00",
+    "brightBlue": "#0037da",
+    "brightPurple": "#881798",
+    "brightCyan": "#3a96dd",
+    "brightWhite": "#0c0c0c"
+}

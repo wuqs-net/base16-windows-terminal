@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Gigavolt 256",
+    "foreground": "#e9e7e1",
+    "background": "#202126",
+    "cursorColor": "#e9e7e1",
+    "selectionBackground": "#5a576e",
+    "black": "#202126",
+    "red": "#ff661a",
+    "green": "#f2e6a9",
+    "yellow": "#ffdc2d",
+    "blue": "#40bfff",
+    "purple": "#ae94f9",
+    "cyan": "#fb6acb",
+    "white": "#e9e7e1",
+    "brightBlack": "#a1d2e6",
+    "brightRed": "#ff661a",
+    "brightGreen": "#f2e6a9",
+    "brightYellow": "#ffdc2d",
+    "brightBlue": "#40bfff",
+    "brightPurple": "#ae94f9",
+    "brightCyan": "#fb6acb",
+    "brightWhite": "#f2fbff"
+}

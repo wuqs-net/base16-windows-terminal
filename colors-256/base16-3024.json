@@ -1,0 +1,23 @@
+{
+    "name": "Base16 3024 256",
+    "foreground": "#a5a2a2",
+    "background": "#090300",
+    "cursorColor": "#a5a2a2",
+    "selectionBackground": "#4a4543",
+    "black": "#090300",
+    "red": "#db2d20",
+    "green": "#01a252",
+    "yellow": "#fded02",
+    "blue": "#01a0e4",
+    "purple": "#a16a94",
+    "cyan": "#b5e4f4",
+    "white": "#a5a2a2",
+    "brightBlack": "#5c5855",
+    "brightRed": "#db2d20",
+    "brightGreen": "#01a252",
+    "brightYellow": "#fded02",
+    "brightBlue": "#01a0e4",
+    "brightPurple": "#a16a94",
+    "brightCyan": "#b5e4f4",
+    "brightWhite": "#f7f7f7"
+}

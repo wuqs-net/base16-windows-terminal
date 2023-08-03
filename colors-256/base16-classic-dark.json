@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Classic Dark 256",
+    "foreground": "#D0D0D0",
+    "background": "#151515",
+    "cursorColor": "#D0D0D0",
+    "selectionBackground": "#303030",
+    "black": "#151515",
+    "red": "#AC4142",
+    "green": "#90A959",
+    "yellow": "#F4BF75",
+    "blue": "#6A9FB5",
+    "purple": "#AA759F",
+    "cyan": "#75B5AA",
+    "white": "#D0D0D0",
+    "brightBlack": "#505050",
+    "brightRed": "#AC4142",
+    "brightGreen": "#90A959",
+    "brightYellow": "#F4BF75",
+    "brightBlue": "#6A9FB5",
+    "brightPurple": "#AA759F",
+    "brightCyan": "#75B5AA",
+    "brightWhite": "#F5F5F5"
+}

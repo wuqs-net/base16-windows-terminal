@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Gruvbox light, soft 256",
+    "foreground": "#504945",
+    "background": "#f2e5bc",
+    "cursorColor": "#504945",
+    "selectionBackground": "#d5c4a1",
+    "black": "#f2e5bc",
+    "red": "#9d0006",
+    "green": "#79740e",
+    "yellow": "#b57614",
+    "blue": "#076678",
+    "purple": "#8f3f71",
+    "cyan": "#427b58",
+    "white": "#504945",
+    "brightBlack": "#bdae93",
+    "brightRed": "#9d0006",
+    "brightGreen": "#79740e",
+    "brightYellow": "#b57614",
+    "brightBlue": "#076678",
+    "brightPurple": "#8f3f71",
+    "brightCyan": "#427b58",
+    "brightWhite": "#282828"
+}
