@@ -1,0 +1,22 @@
+{
+    "name": "base16-windows-10-light",
+    "background": "#f2f2f2",
+    "selectionBackground": "#d9d9d9",
+    "black": "#f2f2f2",
+    "blue": "#0037da",
+    "brightBlack": "#cccccc",
+    "brightBlue": "#ababab",
+    "brightCyan": "#16c60c",
+    "brightGreen": "#e5e5e5",
+    "brightPurple": "#414141",
+    "brightRed": "#f9f1a5",
+    "brightWhite": "#0c0c0c",
+    "brightYellow": "#d9d9d9",
+    "cyan": "#3a96dd",
+    "foreground": "#767676",
+    "green": "#13a10e",
+    "purple": "#881798",
+    "red": "#c50f1f",
+    "white": "#767676",
+    "yellow": "#c19c00"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-danqing-light",
+    "background": "#fcfefd",
+    "selectionBackground": "#e0f0eF",
+    "black": "#fcfefd",
+    "blue": "#B0A4E3",
+    "brightBlack": "#cad8d2",
+    "brightBlue": "#9da8a3",
+    "brightCyan": "#CA6924",
+    "brightGreen": "#ecf6f2",
+    "brightPurple": "#434846",
+    "brightRed": "#B38A61",
+    "brightWhite": "#2d302f",
+    "brightYellow": "#e0f0eF",
+    "cyan": "#30DFF3",
+    "foreground": "#5a605d",
+    "green": "#8AB361",
+    "purple": "#CCA4E3",
+    "red": "#F9906F",
+    "white": "#5a605d",
+    "yellow": "#F0C239"
+}

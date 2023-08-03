@@ -1,0 +1,22 @@
+{
+    "name": "base16-sagelight",
+    "background": "#f8f8f8",
+    "selectionBackground": "#d8d8d8",
+    "black": "#f8f8f8",
+    "blue": "#a0a7d2",
+    "brightBlack": "#b8b8b8",
+    "brightBlue": "#585858",
+    "brightCyan": "#d2b2a0",
+    "brightGreen": "#e8e8e8",
+    "brightPurple": "#282828",
+    "brightRed": "#ffaa61",
+    "brightWhite": "#181818",
+    "brightYellow": "#d8d8d8",
+    "cyan": "#a2d6f5",
+    "foreground": "#383838",
+    "green": "#a0d2c8",
+    "purple": "#c8a0d2",
+    "red": "#fa8480",
+    "white": "#383838",
+    "yellow": "#ffdc61"
+}

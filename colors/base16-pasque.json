@@ -1,0 +1,22 @@
+{
+    "name": "base16-pasque",
+    "background": "#271C3A",
+    "selectionBackground": "#3E2D5C",
+    "black": "#271C3A",
+    "blue": "#8E7DC6",
+    "brightBlack": "#5D5766",
+    "brightBlue": "#BEBCBF",
+    "brightCyan": "#59325C",
+    "brightGreen": "#100323",
+    "brightPurple": "#EDEAEF",
+    "brightRed": "#918889",
+    "brightWhite": "#BBAADD",
+    "brightYellow": "#3E2D5C",
+    "cyan": "#7263AA",
+    "foreground": "#DEDCDF",
+    "green": "#C6914B",
+    "purple": "#953B9D",
+    "red": "#A92258",
+    "white": "#DEDCDF",
+    "yellow": "#804ead"
+}

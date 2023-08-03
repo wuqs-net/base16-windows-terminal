@@ -1,0 +1,22 @@
+{
+    "name": "base16-qualia",
+    "background": "#101010",
+    "selectionBackground": "#454545",
+    "black": "#101010",
+    "blue": "#50CACD",
+    "brightBlack": "#454545",
+    "brightBlue": "#808080",
+    "brightCyan": "#808080",
+    "brightGreen": "#454545",
+    "brightPurple": "#C0C0C0",
+    "brightRed": "#A3B8EF",
+    "brightWhite": "#454545",
+    "brightYellow": "#454545",
+    "cyan": "#C8C874",
+    "foreground": "#C0C0C0",
+    "green": "#80C990",
+    "purple": "#E0AF85",
+    "red": "#EFA6A2",
+    "white": "#C0C0C0",
+    "yellow": "#E6A3DC"
+}

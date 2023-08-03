@@ -1,0 +1,42 @@
+name: Update Color Schemes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "38 22 * * *"
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    name: Update Color Schemes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: pip
+      - run: pip install pybase16-builder
+      - name: Update Builder
+        run: |
+          pybase16 update
+      - name: Patch base16-vice-scheme
+        run: |
+          # workaround Thomashighbaugh/base16-vice-scheme#7
+          [ -f schemes/vice/vice.yaml ] && sed -ri 's/"#([0-9a-f]+)"/"\1"/g' schemes/vice/vice.yaml
+      - name: Build
+        run: |
+          rm -r colors
+          pybase16 build -t windows-terminal
+          mv output/windows-terminal/colors colors
+      - name: Commit
+        run: |
+          git add colors
+          if ! git diff --staged --exit-code > /dev/null; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git commit -m "Update colors"
+            git push
+          fi
