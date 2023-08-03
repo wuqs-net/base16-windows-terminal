@@ -4,4 +4,4 @@ default:
 
 default-256:
     extension: .json
-    output: colors
+    output: colors-256
