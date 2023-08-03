@@ -33,7 +33,7 @@ jobs:
           mv output/windows-terminal/colors-256 colors-256
       - name: Commit
         run: |
-          git add colors
+          git add colors colors-256
           if ! git diff --staged --exit-code > /dev/null; then
             git config user.name github-actions
             git config user.email github-actions@github.com
