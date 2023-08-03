@@ -9,7 +9,6 @@ This theme was built with [base16-builder-python](https://github.com/InspectorMu
 2. Go to Settings in Windows Terminal.
 3. Click the gear button at the bottom left to open the JSON settings file.
 4. Paste the content of clipboard under `schemes`.
-5. Set the `colorScheme` of your profile to the file name of the scheme (without the `.json` extension).
 
 ## "256" Variants
 
