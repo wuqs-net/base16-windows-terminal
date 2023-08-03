@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Plateau Light 256",
+    "foreground": "#585050",
+    "background": "#f4ecec",
+    "cursorColor": "#585050",
+    "selectionBackground": "#8a8585",
+    "black": "#f4ecec",
+    "red": "#ca4949",
+    "green": "#4b8b8b",
+    "yellow": "#a06e3b",
+    "blue": "#7272ca",
+    "purple": "#8464c4",
+    "cyan": "#5485b6",
+    "white": "#585050",
+    "brightBlack": "#7e7777",
+    "brightRed": "#ca4949",
+    "brightGreen": "#4b8b8b",
+    "brightYellow": "#a06e3b",
+    "brightBlue": "#7272ca",
+    "brightPurple": "#8464c4",
+    "brightCyan": "#5485b6",
+    "brightWhite": "#1b1818"
+}

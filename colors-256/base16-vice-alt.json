@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Vice Alt 256",
+    "foreground": "#555555",
+    "background": "#1c1c1c",
+    "cursorColor": "#555555",
+    "selectionBackground": "#2c2c2c",
+    "black": "#1c1c1c",
+    "red": "#ff3d81",
+    "green": "#44ffdd",
+    "yellow": "#ffff73",
+    "blue": "#2fb1d4",
+    "purple": "#8265ff",
+    "cyan": "#00caff",
+    "white": "#555555",
+    "brightBlack": "#323232",
+    "brightRed": "#ff3d81",
+    "brightGreen": "#44ffdd",
+    "brightYellow": "#ffff73",
+    "brightBlue": "#2fb1d4",
+    "brightPurple": "#8265ff",
+    "brightCyan": "#00caff",
+    "brightWhite": "#d1d1d1"
+}

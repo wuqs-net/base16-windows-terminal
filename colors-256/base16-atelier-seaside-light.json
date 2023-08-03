@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Seaside Light 256",
+    "foreground": "#5e6e5e",
+    "background": "#f4fbf4",
+    "cursorColor": "#5e6e5e",
+    "selectionBackground": "#8ca68c",
+    "black": "#f4fbf4",
+    "red": "#e6193c",
+    "green": "#29a329",
+    "yellow": "#98981b",
+    "blue": "#3d62f5",
+    "purple": "#ad2bee",
+    "cyan": "#1999b3",
+    "white": "#5e6e5e",
+    "brightBlack": "#809980",
+    "brightRed": "#e6193c",
+    "brightGreen": "#29a329",
+    "brightYellow": "#98981b",
+    "brightBlue": "#3d62f5",
+    "brightPurple": "#ad2bee",
+    "brightCyan": "#1999b3",
+    "brightWhite": "#131513"
+}

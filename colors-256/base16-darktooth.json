@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Darktooth 256",
+    "foreground": "#A89984",
+    "background": "#1D2021",
+    "cursorColor": "#A89984",
+    "selectionBackground": "#504945",
+    "black": "#1D2021",
+    "red": "#FB543F",
+    "green": "#95C085",
+    "yellow": "#FAC03B",
+    "blue": "#0D6678",
+    "purple": "#8F4673",
+    "cyan": "#8BA59B",
+    "white": "#A89984",
+    "brightBlack": "#665C54",
+    "brightRed": "#FB543F",
+    "brightGreen": "#95C085",
+    "brightYellow": "#FAC03B",
+    "brightBlue": "#0D6678",
+    "brightPurple": "#8F4673",
+    "brightCyan": "#8BA59B",
+    "brightWhite": "#FDF4C1"
+}

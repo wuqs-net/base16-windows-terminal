@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Marrakesh 256",
+    "foreground": "#948e48",
+    "background": "#201602",
+    "cursorColor": "#948e48",
+    "selectionBackground": "#5f5b17",
+    "black": "#201602",
+    "red": "#c35359",
+    "green": "#18974e",
+    "yellow": "#a88339",
+    "blue": "#477ca1",
+    "purple": "#8868b3",
+    "cyan": "#75a738",
+    "white": "#948e48",
+    "brightBlack": "#6c6823",
+    "brightRed": "#c35359",
+    "brightGreen": "#18974e",
+    "brightYellow": "#a88339",
+    "brightBlue": "#477ca1",
+    "brightPurple": "#8868b3",
+    "brightCyan": "#75a738",
+    "brightWhite": "#faf0a5"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Brogrammer 256",
+    "foreground": "#4e5ab7",
+    "background": "#1f1f1f",
+    "cursorColor": "#4e5ab7",
+    "selectionBackground": "#2dc55e",
+    "black": "#1f1f1f",
+    "red": "#d6dbe5",
+    "green": "#f3bd09",
+    "yellow": "#1dd361",
+    "blue": "#5350b9",
+    "purple": "#0f7ddb",
+    "cyan": "#1081d6",
+    "white": "#4e5ab7",
+    "brightBlack": "#ecba0f",
+    "brightRed": "#d6dbe5",
+    "brightGreen": "#f3bd09",
+    "brightYellow": "#1dd361",
+    "brightBlue": "#5350b9",
+    "brightPurple": "#0f7ddb",
+    "brightCyan": "#1081d6",
+    "brightWhite": "#d6dbe5"
+}

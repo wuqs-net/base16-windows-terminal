@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Sakura 256",
+    "foreground": "#564448",
+    "background": "#feedf3",
+    "cursorColor": "#564448",
+    "selectionBackground": "#e0ccd1",
+    "black": "#feedf3",
+    "red": "#df2d52",
+    "green": "#2e916d",
+    "yellow": "#c29461",
+    "blue": "#006e93",
+    "purple": "#5e2180",
+    "cyan": "#1d8991",
+    "white": "#564448",
+    "brightBlack": "#755f64",
+    "brightRed": "#df2d52",
+    "brightGreen": "#2e916d",
+    "brightYellow": "#c29461",
+    "brightBlue": "#006e93",
+    "brightPurple": "#5e2180",
+    "brightCyan": "#1d8991",
+    "brightWhite": "#33292b"
+}

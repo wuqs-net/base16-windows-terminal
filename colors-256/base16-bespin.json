@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Bespin 256",
+    "foreground": "#8a8986",
+    "background": "#28211c",
+    "cursorColor": "#8a8986",
+    "selectionBackground": "#5e5d5c",
+    "black": "#28211c",
+    "red": "#cf6a4c",
+    "green": "#54be0d",
+    "yellow": "#f9ee98",
+    "blue": "#5ea6ea",
+    "purple": "#9b859d",
+    "cyan": "#afc4db",
+    "white": "#8a8986",
+    "brightBlack": "#666666",
+    "brightRed": "#cf6a4c",
+    "brightGreen": "#54be0d",
+    "brightYellow": "#f9ee98",
+    "brightBlue": "#5ea6ea",
+    "brightPurple": "#9b859d",
+    "brightCyan": "#afc4db",
+    "brightWhite": "#baae9e"
+}

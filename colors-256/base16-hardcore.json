@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Hardcore 256",
+    "foreground": "#cdcdcd",
+    "background": "#212121",
+    "cursorColor": "#cdcdcd",
+    "selectionBackground": "#353535",
+    "black": "#212121",
+    "red": "#f92672",
+    "green": "#a6e22e",
+    "yellow": "#e6db74",
+    "blue": "#66d9ef",
+    "purple": "#9e6ffe",
+    "cyan": "#708387",
+    "white": "#cdcdcd",
+    "brightBlack": "#4A4A4A",
+    "brightRed": "#f92672",
+    "brightGreen": "#a6e22e",
+    "brightYellow": "#e6db74",
+    "brightBlue": "#66d9ef",
+    "brightPurple": "#9e6ffe",
+    "brightCyan": "#708387",
+    "brightWhite": "#ffffff"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 dirtysea 256",
+    "foreground": "#000000",
+    "background": "#e0e0e0",
+    "cursorColor": "#000000",
+    "selectionBackground": "#d0d0d0",
+    "black": "#e0e0e0",
+    "red": "#840000",
+    "green": "#730073",
+    "yellow": "#755B00",
+    "blue": "#007300",
+    "purple": "#000090",
+    "cyan": "#755B00",
+    "white": "#000000",
+    "brightBlack": "#707070",
+    "brightRed": "#840000",
+    "brightGreen": "#730073",
+    "brightYellow": "#755B00",
+    "brightBlue": "#007300",
+    "brightPurple": "#000090",
+    "brightCyan": "#755B00",
+    "brightWhite": "#c4d9c4"
+}

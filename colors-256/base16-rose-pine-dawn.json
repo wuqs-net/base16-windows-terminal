@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Rosé Pine Dawn 256",
+    "foreground": "#575279",
+    "background": "#faf4ed",
+    "cursorColor": "#575279",
+    "selectionBackground": "#f2e9de",
+    "black": "#faf4ed",
+    "red": "#b4637a",
+    "green": "#286983",
+    "yellow": "#d7827e",
+    "blue": "#907aa9",
+    "purple": "#ea9d34",
+    "cyan": "#56949f",
+    "white": "#575279",
+    "brightBlack": "#9893a5",
+    "brightRed": "#b4637a",
+    "brightGreen": "#286983",
+    "brightYellow": "#d7827e",
+    "brightBlue": "#907aa9",
+    "brightPurple": "#ea9d34",
+    "brightCyan": "#56949f",
+    "brightWhite": "#cecacd"
+}

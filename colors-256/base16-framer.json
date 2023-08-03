@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Framer 256",
+    "foreground": "#D0D0D0",
+    "background": "#181818",
+    "cursorColor": "#D0D0D0",
+    "selectionBackground": "#464646",
+    "black": "#181818",
+    "red": "#FD886B",
+    "green": "#32CCDC",
+    "yellow": "#FECB6E",
+    "blue": "#20BCFC",
+    "purple": "#BA8CFC",
+    "cyan": "#ACDDFD",
+    "white": "#D0D0D0",
+    "brightBlack": "#747474",
+    "brightRed": "#FD886B",
+    "brightGreen": "#32CCDC",
+    "brightYellow": "#FECB6E",
+    "brightBlue": "#20BCFC",
+    "brightPurple": "#BA8CFC",
+    "brightCyan": "#ACDDFD",
+    "brightWhite": "#EEEEEE"
+}

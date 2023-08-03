@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Gruvbox dark, pale 256",
+    "foreground": "#dab997",
+    "background": "#262626",
+    "cursorColor": "#dab997",
+    "selectionBackground": "#4e4e4e",
+    "black": "#262626",
+    "red": "#d75f5f",
+    "green": "#afaf00",
+    "yellow": "#ffaf00",
+    "blue": "#83adad",
+    "purple": "#d485ad",
+    "cyan": "#85ad85",
+    "white": "#dab997",
+    "brightBlack": "#8a8a8a",
+    "brightRed": "#d75f5f",
+    "brightGreen": "#afaf00",
+    "brightYellow": "#ffaf00",
+    "brightBlue": "#83adad",
+    "brightPurple": "#d485ad",
+    "brightCyan": "#85ad85",
+    "brightWhite": "#ebdbb2"
+}

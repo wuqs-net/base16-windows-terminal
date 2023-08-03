@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Forest Light 256",
+    "foreground": "#68615e",
+    "background": "#f1efee",
+    "cursorColor": "#68615e",
+    "selectionBackground": "#a8a19f",
+    "black": "#f1efee",
+    "red": "#f22c40",
+    "green": "#7b9726",
+    "yellow": "#c38418",
+    "blue": "#407ee7",
+    "purple": "#6666ea",
+    "cyan": "#3d97b8",
+    "white": "#68615e",
+    "brightBlack": "#9c9491",
+    "brightRed": "#f22c40",
+    "brightGreen": "#7b9726",
+    "brightYellow": "#c38418",
+    "brightBlue": "#407ee7",
+    "brightPurple": "#6666ea",
+    "brightCyan": "#3d97b8",
+    "brightWhite": "#1b1918"
+}

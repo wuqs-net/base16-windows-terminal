@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Lakeside 256",
+    "foreground": "#7ea2b4",
+    "background": "#161b1d",
+    "cursorColor": "#7ea2b4",
+    "selectionBackground": "#516d7b",
+    "black": "#161b1d",
+    "red": "#d22d72",
+    "green": "#568c3b",
+    "yellow": "#8a8a0f",
+    "blue": "#257fad",
+    "purple": "#6b6bb8",
+    "cyan": "#2d8f6f",
+    "white": "#7ea2b4",
+    "brightBlack": "#5a7b8c",
+    "brightRed": "#d22d72",
+    "brightGreen": "#568c3b",
+    "brightYellow": "#8a8a0f",
+    "brightBlue": "#257fad",
+    "brightPurple": "#6b6bb8",
+    "brightCyan": "#2d8f6f",
+    "brightWhite": "#ebf8ff"
+}

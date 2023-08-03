@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Sagelight 256",
+    "foreground": "#383838",
+    "background": "#f8f8f8",
+    "cursorColor": "#383838",
+    "selectionBackground": "#d8d8d8",
+    "black": "#f8f8f8",
+    "red": "#fa8480",
+    "green": "#a0d2c8",
+    "yellow": "#ffdc61",
+    "blue": "#a0a7d2",
+    "purple": "#c8a0d2",
+    "cyan": "#a2d6f5",
+    "white": "#383838",
+    "brightBlack": "#b8b8b8",
+    "brightRed": "#fa8480",
+    "brightGreen": "#a0d2c8",
+    "brightYellow": "#ffdc61",
+    "brightBlue": "#a0a7d2",
+    "brightPurple": "#c8a0d2",
+    "brightCyan": "#a2d6f5",
+    "brightWhite": "#181818"
+}

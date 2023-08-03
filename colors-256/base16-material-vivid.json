@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Material Vivid 256",
+    "foreground": "#80868b",
+    "background": "#202124",
+    "cursorColor": "#80868b",
+    "selectionBackground": "#323639",
+    "black": "#202124",
+    "red": "#f44336",
+    "green": "#00e676",
+    "yellow": "#ffeb3b",
+    "blue": "#2196f3",
+    "purple": "#673ab7",
+    "cyan": "#00bcd4",
+    "white": "#80868b",
+    "brightBlack": "#44464d",
+    "brightRed": "#f44336",
+    "brightGreen": "#00e676",
+    "brightYellow": "#ffeb3b",
+    "brightBlue": "#2196f3",
+    "brightPurple": "#673ab7",
+    "brightCyan": "#00bcd4",
+    "brightWhite": "#ffffff"
+}

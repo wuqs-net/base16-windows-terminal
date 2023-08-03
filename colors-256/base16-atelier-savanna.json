@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Savanna 256",
+    "foreground": "#87928a",
+    "background": "#171c19",
+    "cursorColor": "#87928a",
+    "selectionBackground": "#526057",
+    "black": "#171c19",
+    "red": "#b16139",
+    "green": "#489963",
+    "yellow": "#a07e3b",
+    "blue": "#478c90",
+    "purple": "#55859b",
+    "cyan": "#1c9aa0",
+    "white": "#87928a",
+    "brightBlack": "#5f6d64",
+    "brightRed": "#b16139",
+    "brightGreen": "#489963",
+    "brightYellow": "#a07e3b",
+    "brightBlue": "#478c90",
+    "brightPurple": "#55859b",
+    "brightCyan": "#1c9aa0",
+    "brightWhite": "#ecf4ee"
+}

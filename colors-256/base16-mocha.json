@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Mocha 256",
+    "foreground": "#d0c8c6",
+    "background": "#3B3228",
+    "cursorColor": "#d0c8c6",
+    "selectionBackground": "#645240",
+    "black": "#3B3228",
+    "red": "#cb6077",
+    "green": "#beb55b",
+    "yellow": "#f4bc87",
+    "blue": "#8ab3b5",
+    "purple": "#a89bb9",
+    "cyan": "#7bbda4",
+    "white": "#d0c8c6",
+    "brightBlack": "#7e705a",
+    "brightRed": "#cb6077",
+    "brightGreen": "#beb55b",
+    "brightYellow": "#f4bc87",
+    "brightBlue": "#8ab3b5",
+    "brightPurple": "#a89bb9",
+    "brightCyan": "#7bbda4",
+    "brightWhite": "#f5eeeb"
+}

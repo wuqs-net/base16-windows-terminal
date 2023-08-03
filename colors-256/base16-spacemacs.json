@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Spacemacs 256",
+    "foreground": "#a3a3a3",
+    "background": "#1f2022",
+    "cursorColor": "#a3a3a3",
+    "selectionBackground": "#444155",
+    "black": "#1f2022",
+    "red": "#f2241f",
+    "green": "#67b11d",
+    "yellow": "#b1951d",
+    "blue": "#4f97d7",
+    "purple": "#a31db1",
+    "cyan": "#2d9574",
+    "white": "#a3a3a3",
+    "brightBlack": "#585858",
+    "brightRed": "#f2241f",
+    "brightGreen": "#67b11d",
+    "brightYellow": "#b1951d",
+    "brightBlue": "#4f97d7",
+    "brightPurple": "#a31db1",
+    "brightCyan": "#2d9574",
+    "brightWhite": "#f8f8f8"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Codeschool 256",
+    "foreground": "#9ea7a6",
+    "background": "#232c31",
+    "cursorColor": "#9ea7a6",
+    "selectionBackground": "#2a343a",
+    "black": "#232c31",
+    "red": "#2a5491",
+    "green": "#237986",
+    "yellow": "#a03b1e",
+    "blue": "#484d79",
+    "purple": "#c59820",
+    "cyan": "#b02f30",
+    "white": "#9ea7a6",
+    "brightBlack": "#3f4944",
+    "brightRed": "#2a5491",
+    "brightGreen": "#237986",
+    "brightYellow": "#a03b1e",
+    "brightBlue": "#484d79",
+    "brightPurple": "#c59820",
+    "brightCyan": "#b02f30",
+    "brightWhite": "#b5d8f6"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Horizon Light 256",
+    "foreground": "#403C3D",
+    "background": "#FDF0ED",
+    "cursorColor": "#403C3D",
+    "selectionBackground": "#F9CBBE",
+    "black": "#FDF0ED",
+    "red": "#F7939B",
+    "green": "#94E1B0",
+    "yellow": "#FBE0D9",
+    "blue": "#DA103F",
+    "purple": "#1D8991",
+    "cyan": "#DC3318",
+    "white": "#403C3D",
+    "brightBlack": "#BDB3B1",
+    "brightRed": "#F7939B",
+    "brightGreen": "#94E1B0",
+    "brightYellow": "#FBE0D9",
+    "brightBlue": "#DA103F",
+    "brightPurple": "#1D8991",
+    "brightCyan": "#DC3318",
+    "brightWhite": "#201C1D"
+}

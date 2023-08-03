@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Circus 256",
+    "foreground": "#a7a7a7",
+    "background": "#191919",
+    "cursorColor": "#a7a7a7",
+    "selectionBackground": "#303030",
+    "black": "#191919",
+    "red": "#dc657d",
+    "green": "#84b97c",
+    "yellow": "#c3ba63",
+    "blue": "#639ee4",
+    "purple": "#b888e2",
+    "cyan": "#4bb1a7",
+    "white": "#a7a7a7",
+    "brightBlack": "#5f5a60",
+    "brightRed": "#dc657d",
+    "brightGreen": "#84b97c",
+    "brightYellow": "#c3ba63",
+    "brightBlue": "#639ee4",
+    "brightPurple": "#b888e2",
+    "brightCyan": "#4bb1a7",
+    "brightWhite": "#ffffff"
+}

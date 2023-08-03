@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Solar Flare Light 256",
+    "foreground": "#586875",
+    "background": "#F5F7FA",
+    "cursorColor": "#586875",
+    "selectionBackground": "#A6AFB8",
+    "black": "#F5F7FA",
+    "red": "#EF5253",
+    "green": "#7CC844",
+    "yellow": "#E4B51C",
+    "blue": "#33B5E1",
+    "purple": "#A363D5",
+    "cyan": "#52CBB0",
+    "white": "#586875",
+    "brightBlack": "#85939E",
+    "brightRed": "#EF5253",
+    "brightGreen": "#7CC844",
+    "brightYellow": "#E4B51C",
+    "brightBlue": "#33B5E1",
+    "brightPurple": "#A363D5",
+    "brightCyan": "#52CBB0",
+    "brightWhite": "#18262F"
+}

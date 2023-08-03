@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Gruber 256",
+    "foreground": "#f4f4ff",
+    "background": "#181818",
+    "cursorColor": "#f4f4ff",
+    "selectionBackground": "#665c7f",
+    "black": "#181818",
+    "red": "#f43841",
+    "green": "#73c936",
+    "yellow": "#ffdd33",
+    "blue": "#96a6c8",
+    "purple": "#9e95c7",
+    "cyan": "#95a99f",
+    "white": "#f4f4ff",
+    "brightBlack": "#9dae93",
+    "brightRed": "#f43841",
+    "brightGreen": "#73c936",
+    "brightYellow": "#ffdd33",
+    "brightBlue": "#96a6c8",
+    "brightPurple": "#9e95c7",
+    "brightCyan": "#95a99f",
+    "brightWhite": "#e4e4ef"
+}

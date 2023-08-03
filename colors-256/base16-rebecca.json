@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Rebecca 256",
+    "foreground": "#f1eff8",
+    "background": "#292a44",
+    "cursorColor": "#f1eff8",
+    "selectionBackground": "#383a62",
+    "black": "#292a44",
+    "red": "#a0a0c5",
+    "green": "#6dfedf",
+    "yellow": "#ae81ff",
+    "blue": "#2de0a7",
+    "purple": "#7aa5ff",
+    "cyan": "#8eaee0",
+    "white": "#f1eff8",
+    "brightBlack": "#666699",
+    "brightRed": "#a0a0c5",
+    "brightGreen": "#6dfedf",
+    "brightYellow": "#ae81ff",
+    "brightBlue": "#2de0a7",
+    "brightPurple": "#7aa5ff",
+    "brightCyan": "#8eaee0",
+    "brightWhite": "#53495d"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Atelier Forest 256",
+    "foreground": "#a8a19f",
+    "background": "#1b1918",
+    "cursorColor": "#a8a19f",
+    "selectionBackground": "#68615e",
+    "black": "#1b1918",
+    "red": "#f22c40",
+    "green": "#7b9726",
+    "yellow": "#c38418",
+    "blue": "#407ee7",
+    "purple": "#6666ea",
+    "cyan": "#3d97b8",
+    "white": "#a8a19f",
+    "brightBlack": "#766e6b",
+    "brightRed": "#f22c40",
+    "brightGreen": "#7b9726",
+    "brightYellow": "#c38418",
+    "brightBlue": "#407ee7",
+    "brightPurple": "#6666ea",
+    "brightCyan": "#3d97b8",
+    "brightWhite": "#f1efee"
+}

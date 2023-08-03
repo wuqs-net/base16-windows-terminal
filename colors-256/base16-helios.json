@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Helios 256",
+    "foreground": "#d5d5d5",
+    "background": "#1d2021",
+    "cursorColor": "#d5d5d5",
+    "selectionBackground": "#53585b",
+    "black": "#1d2021",
+    "red": "#d72638",
+    "green": "#88b92d",
+    "yellow": "#f19d1a",
+    "blue": "#1e8bac",
+    "purple": "#be4264",
+    "cyan": "#1ba595",
+    "white": "#d5d5d5",
+    "brightBlack": "#6f7579",
+    "brightRed": "#d72638",
+    "brightGreen": "#88b92d",
+    "brightYellow": "#f19d1a",
+    "brightBlue": "#1e8bac",
+    "brightPurple": "#be4264",
+    "brightCyan": "#1ba595",
+    "brightWhite": "#e5e5e5"
+}

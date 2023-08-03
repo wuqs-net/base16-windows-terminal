@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Shades of Purple 256",
+    "foreground": "#c7c7c7",
+    "background": "#1e1e3f",
+    "cursorColor": "#c7c7c7",
+    "selectionBackground": "#f1d000",
+    "black": "#1e1e3f",
+    "red": "#d90429",
+    "green": "#3ad900",
+    "yellow": "#ffe700",
+    "blue": "#6943ff",
+    "purple": "#ff2c70",
+    "cyan": "#00c5c7",
+    "white": "#c7c7c7",
+    "brightBlack": "#808080",
+    "brightRed": "#d90429",
+    "brightGreen": "#3ad900",
+    "brightYellow": "#ffe700",
+    "brightBlue": "#6943ff",
+    "brightPurple": "#ff2c70",
+    "brightCyan": "#00c5c7",
+    "brightWhite": "#ffffff"
+}

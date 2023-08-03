@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Windows 95 256",
+    "foreground": "#a8a8a8",
+    "background": "#000000",
+    "cursorColor": "#a8a8a8",
+    "selectionBackground": "#383838",
+    "black": "#000000",
+    "red": "#fc5454",
+    "green": "#54fc54",
+    "yellow": "#fcfc54",
+    "blue": "#5454fc",
+    "purple": "#fc54fc",
+    "cyan": "#54fcfc",
+    "white": "#a8a8a8",
+    "brightBlack": "#545454",
+    "brightRed": "#fc5454",
+    "brightGreen": "#54fc54",
+    "brightYellow": "#fcfc54",
+    "brightBlue": "#5454fc",
+    "brightPurple": "#fc54fc",
+    "brightCyan": "#54fcfc",
+    "brightWhite": "#fcfcfc"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Synth Midnight Terminal Light 256",
+    "foreground": "#28292a",
+    "background": "#dddfe0",
+    "cursorColor": "#28292a",
+    "selectionBackground": "#c1c3c4",
+    "black": "#dddfe0",
+    "red": "#b53b50",
+    "green": "#06ea61",
+    "yellow": "#c9d364",
+    "blue": "#03aeff",
+    "purple": "#ea5ce2",
+    "cyan": "#42fff9",
+    "white": "#28292a",
+    "brightBlack": "#a3a5a6",
+    "brightRed": "#b53b50",
+    "brightGreen": "#06ea61",
+    "brightYellow": "#c9d364",
+    "brightBlue": "#03aeff",
+    "brightPurple": "#ea5ce2",
+    "brightCyan": "#42fff9",
+    "brightWhite": "#050608"
+}

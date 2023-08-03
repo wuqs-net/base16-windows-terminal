@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Rosé Pine Moon 256",
+    "foreground": "#e0def4",
+    "background": "#232136",
+    "cursorColor": "#e0def4",
+    "selectionBackground": "#393552",
+    "black": "#232136",
+    "red": "#eb6f92",
+    "green": "#3e8fb0",
+    "yellow": "#ea9a97",
+    "blue": "#c4a7e7",
+    "purple": "#f6c177",
+    "cyan": "#9ccfd8",
+    "white": "#e0def4",
+    "brightBlack": "#6e6a86",
+    "brightRed": "#eb6f92",
+    "brightGreen": "#3e8fb0",
+    "brightYellow": "#ea9a97",
+    "brightBlue": "#c4a7e7",
+    "brightPurple": "#f6c177",
+    "brightCyan": "#9ccfd8",
+    "brightWhite": "#56526e"
+}

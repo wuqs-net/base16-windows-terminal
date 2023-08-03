@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Kimber 256",
+    "foreground": "#DEDEE7",
+    "background": "#222222",
+    "cursorColor": "#DEDEE7",
+    "selectionBackground": "#555D55",
+    "black": "#222222",
+    "red": "#C88C8C",
+    "green": "#99C899",
+    "yellow": "#D8B56D",
+    "blue": "#537C9C",
+    "purple": "#86CACD",
+    "cyan": "#78B4B4",
+    "white": "#DEDEE7",
+    "brightBlack": "#644646",
+    "brightRed": "#C88C8C",
+    "brightGreen": "#99C899",
+    "brightYellow": "#D8B56D",
+    "brightBlue": "#537C9C",
+    "brightPurple": "#86CACD",
+    "brightCyan": "#78B4B4",
+    "brightWhite": "#FFFFE6"
+}

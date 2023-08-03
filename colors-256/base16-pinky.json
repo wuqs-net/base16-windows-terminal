@@ -1,0 +1,23 @@
+{
+    "name": "Base16 pinky 256",
+    "foreground": "#f5f5f5",
+    "background": "#171517",
+    "cursorColor": "#f5f5f5",
+    "selectionBackground": "#1d1b1d",
+    "black": "#171517",
+    "red": "#ffa600",
+    "green": "#ff0066",
+    "yellow": "#20df6c",
+    "blue": "#00ffff",
+    "purple": "#007fff",
+    "cyan": "#6600ff",
+    "white": "#f5f5f5",
+    "brightBlack": "#383338",
+    "brightRed": "#ffa600",
+    "brightGreen": "#ff0066",
+    "brightYellow": "#20df6c",
+    "brightBlue": "#00ffff",
+    "brightPurple": "#007fff",
+    "brightCyan": "#6600ff",
+    "brightWhite": "#f7f3f7"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Summerfruit Light 256",
+    "foreground": "#101010",
+    "background": "#FFFFFF",
+    "cursorColor": "#101010",
+    "selectionBackground": "#D0D0D0",
+    "black": "#FFFFFF",
+    "red": "#FF0086",
+    "green": "#00C918",
+    "yellow": "#ABA800",
+    "blue": "#3777E6",
+    "purple": "#AD00A1",
+    "cyan": "#1FAAAA",
+    "white": "#101010",
+    "brightBlack": "#B0B0B0",
+    "brightRed": "#FF0086",
+    "brightGreen": "#00C918",
+    "brightYellow": "#ABA800",
+    "brightBlue": "#3777E6",
+    "brightPurple": "#AD00A1",
+    "brightCyan": "#1FAAAA",
+    "brightWhite": "#202020"
+}

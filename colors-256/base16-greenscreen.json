@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Green Screen 256",
+    "foreground": "#00bb00",
+    "background": "#001100",
+    "cursorColor": "#00bb00",
+    "selectionBackground": "#005500",
+    "black": "#001100",
+    "red": "#007700",
+    "green": "#00bb00",
+    "yellow": "#007700",
+    "blue": "#009900",
+    "purple": "#00bb00",
+    "cyan": "#005500",
+    "white": "#00bb00",
+    "brightBlack": "#007700",
+    "brightRed": "#007700",
+    "brightGreen": "#00bb00",
+    "brightYellow": "#007700",
+    "brightBlue": "#009900",
+    "brightPurple": "#00bb00",
+    "brightCyan": "#005500",
+    "brightWhite": "#00ff00"
+}

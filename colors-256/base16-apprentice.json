@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Apprentice 256",
+    "foreground": "#5F5F87",
+    "background": "#262626",
+    "cursorColor": "#5F5F87",
+    "selectionBackground": "#5F875F",
+    "black": "#262626",
+    "red": "#444444",
+    "green": "#FFFFAF",
+    "yellow": "#87AF87",
+    "blue": "#8787AF",
+    "purple": "#5FAFAF",
+    "cyan": "#87AFD7",
+    "white": "#5F5F87",
+    "brightBlack": "#87875F",
+    "brightRed": "#444444",
+    "brightGreen": "#FFFFAF",
+    "brightYellow": "#87AF87",
+    "brightBlue": "#8787AF",
+    "brightPurple": "#5FAFAF",
+    "brightCyan": "#87AFD7",
+    "brightWhite": "#6C6C6C"
+}

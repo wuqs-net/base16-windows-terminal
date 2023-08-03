@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Porple 256",
+    "foreground": "#d8d8d8",
+    "background": "#292c36",
+    "cursorColor": "#d8d8d8",
+    "selectionBackground": "#474160",
+    "black": "#292c36",
+    "red": "#f84547",
+    "green": "#95c76f",
+    "yellow": "#efa16b",
+    "blue": "#8485ce",
+    "purple": "#b74989",
+    "cyan": "#64878f",
+    "white": "#d8d8d8",
+    "brightBlack": "#65568a",
+    "brightRed": "#f84547",
+    "brightGreen": "#95c76f",
+    "brightYellow": "#efa16b",
+    "brightBlue": "#8485ce",
+    "brightPurple": "#b74989",
+    "brightCyan": "#64878f",
+    "brightWhite": "#f8f8f8"
+}

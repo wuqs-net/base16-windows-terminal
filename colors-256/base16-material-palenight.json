@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Material Palenight 256",
+    "foreground": "#959DCB",
+    "background": "#292D3E",
+    "cursorColor": "#959DCB",
+    "selectionBackground": "#32374D",
+    "black": "#292D3E",
+    "red": "#F07178",
+    "green": "#C3E88D",
+    "yellow": "#FFCB6B",
+    "blue": "#82AAFF",
+    "purple": "#C792EA",
+    "cyan": "#89DDFF",
+    "white": "#959DCB",
+    "brightBlack": "#676E95",
+    "brightRed": "#F07178",
+    "brightGreen": "#C3E88D",
+    "brightYellow": "#FFCB6B",
+    "brightBlue": "#82AAFF",
+    "brightPurple": "#C792EA",
+    "brightCyan": "#89DDFF",
+    "brightWhite": "#FFFFFF"
+}

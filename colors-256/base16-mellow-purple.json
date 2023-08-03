@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Mellow Purple 256",
+    "foreground": "#ffeeff",
+    "background": "#1e0528",
+    "cursorColor": "#ffeeff",
+    "selectionBackground": "#331354",
+    "black": "#1e0528",
+    "red": "#00d9e9",
+    "green": "#05cb0d",
+    "yellow": "#955ae7",
+    "blue": "#550068",
+    "purple": "#8991bb",
+    "cyan": "#b900b1",
+    "white": "#ffeeff",
+    "brightBlack": "#320f55",
+    "brightRed": "#00d9e9",
+    "brightGreen": "#05cb0d",
+    "brightYellow": "#955ae7",
+    "brightBlue": "#550068",
+    "brightPurple": "#8991bb",
+    "brightCyan": "#b900b1",
+    "brightWhite": "#f8c0ff"
+}

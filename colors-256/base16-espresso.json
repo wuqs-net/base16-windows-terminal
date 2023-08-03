@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Espresso 256",
+    "foreground": "#cccccc",
+    "background": "#2d2d2d",
+    "cursorColor": "#cccccc",
+    "selectionBackground": "#515151",
+    "black": "#2d2d2d",
+    "red": "#d25252",
+    "green": "#a5c261",
+    "yellow": "#ffc66d",
+    "blue": "#6c99bb",
+    "purple": "#d197d9",
+    "cyan": "#bed6ff",
+    "white": "#cccccc",
+    "brightBlack": "#777777",
+    "brightRed": "#d25252",
+    "brightGreen": "#a5c261",
+    "brightYellow": "#ffc66d",
+    "brightBlue": "#6c99bb",
+    "brightPurple": "#d197d9",
+    "brightCyan": "#bed6ff",
+    "brightWhite": "#ffffff"
+}

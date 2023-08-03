@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Grayscale Light 256",
+    "foreground": "#464646",
+    "background": "#f7f7f7",
+    "cursorColor": "#464646",
+    "selectionBackground": "#b9b9b9",
+    "black": "#f7f7f7",
+    "red": "#7c7c7c",
+    "green": "#8e8e8e",
+    "yellow": "#a0a0a0",
+    "blue": "#686868",
+    "purple": "#747474",
+    "cyan": "#868686",
+    "white": "#464646",
+    "brightBlack": "#ababab",
+    "brightRed": "#7c7c7c",
+    "brightGreen": "#8e8e8e",
+    "brightYellow": "#a0a0a0",
+    "brightBlue": "#686868",
+    "brightPurple": "#747474",
+    "brightCyan": "#868686",
+    "brightWhite": "#101010"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Humanoid light 256",
+    "foreground": "#232629",
+    "background": "#f8f8f2",
+    "cursorColor": "#232629",
+    "selectionBackground": "#deded8",
+    "black": "#f8f8f2",
+    "red": "#b0151a",
+    "green": "#388e3c",
+    "yellow": "#ffb627",
+    "blue": "#0082c9",
+    "purple": "#700f98",
+    "cyan": "#008e8e",
+    "white": "#232629",
+    "brightBlack": "#c0c0bd",
+    "brightRed": "#b0151a",
+    "brightGreen": "#388e3c",
+    "brightYellow": "#ffb627",
+    "brightBlue": "#0082c9",
+    "brightPurple": "#700f98",
+    "brightCyan": "#008e8e",
+    "brightWhite": "#070708"
+}

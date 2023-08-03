@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Embers 256",
+    "foreground": "#A39A90",
+    "background": "#16130F",
+    "cursorColor": "#A39A90",
+    "selectionBackground": "#433B32",
+    "black": "#16130F",
+    "red": "#826D57",
+    "green": "#57826D",
+    "yellow": "#6D8257",
+    "blue": "#6D5782",
+    "purple": "#82576D",
+    "cyan": "#576D82",
+    "white": "#A39A90",
+    "brightBlack": "#5A5047",
+    "brightRed": "#826D57",
+    "brightGreen": "#57826D",
+    "brightYellow": "#6D8257",
+    "brightBlue": "#6D5782",
+    "brightPurple": "#82576D",
+    "brightCyan": "#576D82",
+    "brightWhite": "#DBD6D1"
+}
