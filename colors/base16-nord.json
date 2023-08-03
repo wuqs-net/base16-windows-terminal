@@ -1,0 +1,22 @@
+{
+    "name": "base16-nord",
+    "background": "#2E3440",
+    "selectionBackground": "#434C5E",
+    "black": "#2E3440",
+    "blue": "#81A1C1",
+    "brightBlack": "#4C566A",
+    "brightBlue": "#D8DEE9",
+    "brightCyan": "#5E81AC",
+    "brightGreen": "#3B4252",
+    "brightPurple": "#ECEFF4",
+    "brightRed": "#D08770",
+    "brightWhite": "#8FBCBB",
+    "brightYellow": "#434C5E",
+    "cyan": "#88C0D0",
+    "foreground": "#E5E9F0",
+    "green": "#A3BE8C",
+    "purple": "#B48EAD",
+    "red": "#BF616A",
+    "white": "#E5E9F0",
+    "yellow": "#EBCB8B"
+}

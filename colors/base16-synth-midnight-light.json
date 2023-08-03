@@ -1,0 +1,22 @@
+{
+    "name": "base16-synth-midnight-light",
+    "background": "#dddfe0",
+    "selectionBackground": "#c1c3c4",
+    "black": "#dddfe0",
+    "blue": "#03aeff",
+    "brightBlack": "#a3a5a6",
+    "brightBlue": "#474849",
+    "brightCyan": "#cd6320",
+    "brightGreen": "#cfd1d2",
+    "brightPurple": "#1a1b1c",
+    "brightRed": "#ea770d",
+    "brightWhite": "#050608",
+    "brightYellow": "#c1c3c4",
+    "cyan": "#42fff9",
+    "foreground": "#28292a",
+    "green": "#06ea61",
+    "purple": "#ea5ce2",
+    "red": "#b53b50",
+    "white": "#28292a",
+    "yellow": "#c9d364"
+}

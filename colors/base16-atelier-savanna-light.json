@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-savanna-light",
+    "background": "#ecf4ee",
+    "selectionBackground": "#87928a",
+    "black": "#ecf4ee",
+    "blue": "#478c90",
+    "brightBlack": "#78877d",
+    "brightBlue": "#5f6d64",
+    "brightCyan": "#867469",
+    "brightGreen": "#dfe7e2",
+    "brightPurple": "#232a25",
+    "brightRed": "#9f713c",
+    "brightWhite": "#171c19",
+    "brightYellow": "#87928a",
+    "cyan": "#1c9aa0",
+    "foreground": "#526057",
+    "green": "#489963",
+    "purple": "#55859b",
+    "red": "#b16139",
+    "white": "#526057",
+    "yellow": "#a07e3b"
+}

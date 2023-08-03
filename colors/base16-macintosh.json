@@ -1,0 +1,22 @@
+{
+    "name": "base16-macintosh",
+    "background": "#000000",
+    "selectionBackground": "#404040",
+    "black": "#000000",
+    "blue": "#0000d3",
+    "brightBlack": "#808080",
+    "brightBlue": "#808080",
+    "brightCyan": "#90713a",
+    "brightGreen": "#404040",
+    "brightPurple": "#c0c0c0",
+    "brightRed": "#ff6403",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#404040",
+    "cyan": "#02abea",
+    "foreground": "#c0c0c0",
+    "green": "#1fb714",
+    "purple": "#4700a5",
+    "red": "#dd0907",
+    "white": "#c0c0c0",
+    "yellow": "#fbf305"
+}

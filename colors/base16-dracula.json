@@ -1,0 +1,22 @@
+{
+    "name": "base16-dracula",
+    "background": "#282936",
+    "selectionBackground": "#4d4f68",
+    "black": "#282936",
+    "blue": "#62d6e8",
+    "brightBlack": "#626483",
+    "brightBlue": "#62d6e8",
+    "brightCyan": "#00f769",
+    "brightGreen": "#3a3c4e",
+    "brightPurple": "#f1f2f8",
+    "brightRed": "#b45bcf",
+    "brightWhite": "#f7f7fb",
+    "brightYellow": "#4d4f68",
+    "cyan": "#a1efe4",
+    "foreground": "#e9e9f4",
+    "green": "#ebff87",
+    "purple": "#b45bcf",
+    "red": "#ea51b2",
+    "white": "#e9e9f4",
+    "yellow": "#00f769"
+}

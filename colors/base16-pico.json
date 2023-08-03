@@ -1,0 +1,22 @@
+{
+    "name": "base16-pico",
+    "background": "#000000",
+    "selectionBackground": "#7e2553",
+    "black": "#000000",
+    "blue": "#83769c",
+    "brightBlack": "#008751",
+    "brightBlue": "#ab5236",
+    "brightCyan": "#ffccaa",
+    "brightGreen": "#1d2b53",
+    "brightPurple": "#c2c3c7",
+    "brightRed": "#ffa300",
+    "brightWhite": "#fff1e8",
+    "brightYellow": "#7e2553",
+    "cyan": "#29adff",
+    "foreground": "#5f574f",
+    "green": "#00e756",
+    "purple": "#ff77a8",
+    "red": "#ff004d",
+    "white": "#5f574f",
+    "yellow": "#fff024"
+}

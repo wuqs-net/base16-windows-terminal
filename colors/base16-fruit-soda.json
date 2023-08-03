@@ -1,0 +1,22 @@
+{
+    "name": "base16-fruit-soda",
+    "background": "#f1ecf1",
+    "selectionBackground": "#d8d5d5",
+    "black": "#f1ecf1",
+    "blue": "#2931df",
+    "brightBlack": "#b5b4b6",
+    "brightBlue": "#979598",
+    "brightCyan": "#b16f40",
+    "brightGreen": "#e0dee0",
+    "brightPurple": "#474545",
+    "brightRed": "#fe6d08",
+    "brightWhite": "#2d2c2c",
+    "brightYellow": "#d8d5d5",
+    "cyan": "#0f9cfd",
+    "foreground": "#515151",
+    "green": "#47f74c",
+    "purple": "#611fce",
+    "red": "#fe3e31",
+    "white": "#515151",
+    "yellow": "#f7e203"
+}

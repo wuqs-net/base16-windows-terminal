@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-sulphurpool-light",
+    "background": "#f5f7ff",
+    "selectionBackground": "#979db4",
+    "black": "#f5f7ff",
+    "blue": "#3d8fd1",
+    "brightBlack": "#898ea4",
+    "brightBlue": "#6b7394",
+    "brightCyan": "#9c637a",
+    "brightGreen": "#dfe2f1",
+    "brightPurple": "#293256",
+    "brightRed": "#c76b29",
+    "brightWhite": "#202746",
+    "brightYellow": "#979db4",
+    "cyan": "#22a2c9",
+    "foreground": "#5e6687",
+    "green": "#ac9739",
+    "purple": "#6679cc",
+    "red": "#c94922",
+    "white": "#5e6687",
+    "yellow": "#c08b30"
+}

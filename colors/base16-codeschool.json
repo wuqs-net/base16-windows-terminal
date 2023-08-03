@@ -1,0 +1,22 @@
+{
+    "name": "base16-codeschool",
+    "background": "#232c31",
+    "selectionBackground": "#2a343a",
+    "black": "#232c31",
+    "blue": "#484d79",
+    "brightBlack": "#3f4944",
+    "brightBlue": "#84898c",
+    "brightCyan": "#c98344",
+    "brightGreen": "#1c3657",
+    "brightPurple": "#a7cfa3",
+    "brightRed": "#43820d",
+    "brightWhite": "#b5d8f6",
+    "brightYellow": "#2a343a",
+    "cyan": "#b02f30",
+    "foreground": "#9ea7a6",
+    "green": "#237986",
+    "purple": "#c59820",
+    "red": "#2a5491",
+    "white": "#9ea7a6",
+    "yellow": "#a03b1e"
+}

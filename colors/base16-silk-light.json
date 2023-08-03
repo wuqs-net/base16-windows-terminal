@@ -1,0 +1,22 @@
+{
+    "name": "base16-silk-light",
+    "background": "#E9F1EF",
+    "selectionBackground": "#90B7B6",
+    "black": "#E9F1EF",
+    "blue": "#39AAC9",
+    "brightBlack": "#5C787B",
+    "brightBlue": "#4B5B5F",
+    "brightCyan": "#865369",
+    "brightGreen": "#CCD4D3",
+    "brightPurple": "#0e3c46",
+    "brightRed": "#D27F46",
+    "brightWhite": "#D2FAFF",
+    "brightYellow": "#90B7B6",
+    "cyan": "#329CA2",
+    "foreground": "#385156",
+    "green": "#6CA38C",
+    "purple": "#6E6582",
+    "red": "#CF432E",
+    "white": "#385156",
+    "yellow": "#CFAD25"
+}

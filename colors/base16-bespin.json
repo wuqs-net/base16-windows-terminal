@@ -1,0 +1,22 @@
+{
+    "name": "base16-bespin",
+    "background": "#28211c",
+    "selectionBackground": "#5e5d5c",
+    "black": "#28211c",
+    "blue": "#5ea6ea",
+    "brightBlack": "#666666",
+    "brightBlue": "#797977",
+    "brightCyan": "#937121",
+    "brightGreen": "#36312e",
+    "brightPurple": "#9d9b97",
+    "brightRed": "#cf7d34",
+    "brightWhite": "#baae9e",
+    "brightYellow": "#5e5d5c",
+    "cyan": "#afc4db",
+    "foreground": "#8a8986",
+    "green": "#54be0d",
+    "purple": "#9b859d",
+    "red": "#cf6a4c",
+    "white": "#8a8986",
+    "yellow": "#f9ee98"
+}

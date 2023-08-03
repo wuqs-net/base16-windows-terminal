@@ -1,0 +1,22 @@
+{
+    "name": "base16-solarflare-light",
+    "background": "#F5F7FA",
+    "selectionBackground": "#A6AFB8",
+    "black": "#F5F7FA",
+    "blue": "#33B5E1",
+    "brightBlack": "#85939E",
+    "brightBlue": "#667581",
+    "brightCyan": "#D73C9A",
+    "brightGreen": "#E8E9ED",
+    "brightPurple": "#222E38",
+    "brightRed": "#E66B2B",
+    "brightWhite": "#18262F",
+    "brightYellow": "#A6AFB8",
+    "cyan": "#52CBB0",
+    "foreground": "#586875",
+    "green": "#7CC844",
+    "purple": "#A363D5",
+    "red": "#EF5253",
+    "white": "#586875",
+    "yellow": "#E4B51C"
+}

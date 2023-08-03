@@ -1,0 +1,22 @@
+{
+    "name": "base16-gruvbox-dark-pale",
+    "background": "#262626",
+    "selectionBackground": "#4e4e4e",
+    "black": "#262626",
+    "blue": "#83adad",
+    "brightBlack": "#8a8a8a",
+    "brightBlue": "#949494",
+    "brightCyan": "#d65d0e",
+    "brightGreen": "#3a3a3a",
+    "brightPurple": "#d5c4a1",
+    "brightRed": "#ff8700",
+    "brightWhite": "#ebdbb2",
+    "brightYellow": "#4e4e4e",
+    "cyan": "#85ad85",
+    "foreground": "#dab997",
+    "green": "#afaf00",
+    "purple": "#d485ad",
+    "red": "#d75f5f",
+    "white": "#dab997",
+    "yellow": "#ffaf00"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-google-light",
+    "background": "#ffffff",
+    "selectionBackground": "#c5c8c6",
+    "black": "#ffffff",
+    "blue": "#3971ED",
+    "brightBlack": "#b4b7b4",
+    "brightBlue": "#969896",
+    "brightCyan": "#3971ED",
+    "brightGreen": "#e0e0e0",
+    "brightPurple": "#282a2e",
+    "brightRed": "#F96A38",
+    "brightWhite": "#1d1f21",
+    "brightYellow": "#c5c8c6",
+    "cyan": "#3971ED",
+    "foreground": "#373b41",
+    "green": "#198844",
+    "purple": "#A36AC7",
+    "red": "#CC342B",
+    "white": "#373b41",
+    "yellow": "#FBA922"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-materia",
+    "background": "#263238",
+    "selectionBackground": "#37474F",
+    "black": "#263238",
+    "blue": "#89DDFF",
+    "brightBlack": "#707880",
+    "brightBlue": "#C9CCD3",
+    "brightCyan": "#EC5F67",
+    "brightGreen": "#2C393F",
+    "brightPurple": "#D5DBE5",
+    "brightRed": "#EA9560",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#37474F",
+    "cyan": "#80CBC4",
+    "foreground": "#CDD3DE",
+    "green": "#8BD649",
+    "purple": "#82AAFF",
+    "red": "#EC5F67",
+    "white": "#CDD3DE",
+    "yellow": "#FFCC00"
+}

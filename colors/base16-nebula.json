@@ -1,0 +1,22 @@
+{
+    "name": "base16-nebula",
+    "background": "#22273b",
+    "selectionBackground": "#5a8380",
+    "black": "#22273b",
+    "blue": "#4d6bb6",
+    "brightBlack": "#6e6f72",
+    "brightBlue": "#87888b",
+    "brightCyan": "#8c70a7",
+    "brightGreen": "#414f60",
+    "brightPurple": "#c7c9cd",
+    "brightRed": "#94929e",
+    "brightWhite": "#8dbdaa",
+    "brightYellow": "#5a8380",
+    "cyan": "#226f68",
+    "foreground": "#a4a6a9",
+    "green": "#6562a8",
+    "purple": "#716cae",
+    "red": "#777abc",
+    "white": "#a4a6a9",
+    "yellow": "#4f9062"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-eighties",
+    "background": "#2d2d2d",
+    "selectionBackground": "#515151",
+    "black": "#2d2d2d",
+    "blue": "#6699cc",
+    "brightBlack": "#747369",
+    "brightBlue": "#a09f93",
+    "brightCyan": "#d27b53",
+    "brightGreen": "#393939",
+    "brightPurple": "#e8e6df",
+    "brightRed": "#f99157",
+    "brightWhite": "#f2f0ec",
+    "brightYellow": "#515151",
+    "cyan": "#66cccc",
+    "foreground": "#d3d0c8",
+    "green": "#99cc99",
+    "purple": "#cc99cc",
+    "red": "#f2777a",
+    "white": "#d3d0c8",
+    "yellow": "#ffcc66"
+}

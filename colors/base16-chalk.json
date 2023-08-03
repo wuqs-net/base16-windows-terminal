@@ -1,0 +1,22 @@
+{
+    "name": "base16-chalk",
+    "background": "#151515",
+    "selectionBackground": "#303030",
+    "black": "#151515",
+    "blue": "#6fc2ef",
+    "brightBlack": "#505050",
+    "brightBlue": "#b0b0b0",
+    "brightCyan": "#deaf8f",
+    "brightGreen": "#202020",
+    "brightPurple": "#e0e0e0",
+    "brightRed": "#eda987",
+    "brightWhite": "#f5f5f5",
+    "brightYellow": "#303030",
+    "cyan": "#12cfc0",
+    "foreground": "#d0d0d0",
+    "green": "#acc267",
+    "purple": "#e1a3ee",
+    "red": "#fb9fb1",
+    "white": "#d0d0d0",
+    "yellow": "#ddb26f"
+}

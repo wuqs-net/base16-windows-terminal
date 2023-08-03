@@ -1,0 +1,22 @@
+{
+    "name": "base16-irblack",
+    "background": "#000000",
+    "selectionBackground": "#484844",
+    "black": "#000000",
+    "blue": "#96cbfe",
+    "brightBlack": "#6c6c66",
+    "brightBlue": "#918f88",
+    "brightCyan": "#b18a3d",
+    "brightGreen": "#242422",
+    "brightPurple": "#d9d7cc",
+    "brightRed": "#e9c062",
+    "brightWhite": "#fdfbee",
+    "brightYellow": "#484844",
+    "cyan": "#c6c5fe",
+    "foreground": "#b5b3aa",
+    "green": "#a8ff60",
+    "purple": "#ff73fd",
+    "red": "#ff6c60",
+    "white": "#b5b3aa",
+    "yellow": "#ffffb6"
+}

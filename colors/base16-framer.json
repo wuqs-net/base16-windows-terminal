@@ -1,0 +1,22 @@
+{
+    "name": "base16-framer",
+    "background": "#181818",
+    "selectionBackground": "#464646",
+    "black": "#181818",
+    "blue": "#20BCFC",
+    "brightBlack": "#747474",
+    "brightBlue": "#B9B9B9",
+    "brightCyan": "#B15F4A",
+    "brightGreen": "#151515",
+    "brightPurple": "#E8E8E8",
+    "brightRed": "#FC4769",
+    "brightWhite": "#EEEEEE",
+    "brightYellow": "#464646",
+    "cyan": "#ACDDFD",
+    "foreground": "#D0D0D0",
+    "green": "#32CCDC",
+    "purple": "#BA8CFC",
+    "red": "#FD886B",
+    "white": "#D0D0D0",
+    "yellow": "#FECB6E"
+}

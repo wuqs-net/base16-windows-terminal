@@ -1,0 +1,22 @@
+{
+    "name": "base16-phd",
+    "background": "#061229",
+    "selectionBackground": "#4d5666",
+    "black": "#061229",
+    "blue": "#5299bf",
+    "brightBlack": "#717885",
+    "brightBlue": "#9a99a3",
+    "brightCyan": "#b08060",
+    "brightGreen": "#2a3448",
+    "brightPurple": "#dbdde0",
+    "brightRed": "#f0a000",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#4d5666",
+    "cyan": "#72b9bf",
+    "foreground": "#b8bbc2",
+    "green": "#99bf52",
+    "purple": "#9989cc",
+    "red": "#d07346",
+    "white": "#b8bbc2",
+    "yellow": "#fbd461"
+}

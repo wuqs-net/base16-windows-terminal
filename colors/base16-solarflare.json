@@ -1,0 +1,22 @@
+{
+    "name": "base16-solarflare",
+    "background": "#18262F",
+    "selectionBackground": "#586875",
+    "black": "#18262F",
+    "blue": "#33B5E1",
+    "brightBlack": "#667581",
+    "brightBlue": "#85939E",
+    "brightCyan": "#D73C9A",
+    "brightGreen": "#222E38",
+    "brightPurple": "#E8E9ED",
+    "brightRed": "#E66B2B",
+    "brightWhite": "#F5F7FA",
+    "brightYellow": "#586875",
+    "cyan": "#52CBB0",
+    "foreground": "#A6AFB8",
+    "green": "#7CC844",
+    "purple": "#A363D5",
+    "red": "#EF5253",
+    "white": "#A6AFB8",
+    "yellow": "#E4B51C"
+}

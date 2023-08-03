@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-dune",
+    "background": "#20201d",
+    "selectionBackground": "#6e6b5e",
+    "black": "#20201d",
+    "blue": "#6684e1",
+    "brightBlack": "#7d7a68",
+    "brightBlue": "#999580",
+    "brightCyan": "#d43552",
+    "brightGreen": "#292824",
+    "brightPurple": "#e8e4cf",
+    "brightRed": "#b65611",
+    "brightWhite": "#fefbec",
+    "brightYellow": "#6e6b5e",
+    "cyan": "#1fad83",
+    "foreground": "#a6a28c",
+    "green": "#60ac39",
+    "purple": "#b854d4",
+    "red": "#d73737",
+    "white": "#a6a28c",
+    "yellow": "#ae9513"
+}

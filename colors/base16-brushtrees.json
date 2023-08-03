@@ -1,0 +1,22 @@
+{
+    "name": "base16-brushtrees",
+    "background": "#E3EFEF",
+    "selectionBackground": "#B0C5C8",
+    "black": "#E3EFEF",
+    "blue": "#868cb3",
+    "brightBlack": "#98AFB5",
+    "brightBlue": "#8299A1",
+    "brightCyan": "#b39f9f",
+    "brightGreen": "#C9DBDC",
+    "brightPurple": "#5A6D7A",
+    "brightRed": "#d8bba2",
+    "brightWhite": "#485867",
+    "brightYellow": "#B0C5C8",
+    "cyan": "#86b3b3",
+    "foreground": "#6D828E",
+    "green": "#87b386",
+    "purple": "#b386b2",
+    "red": "#b38686",
+    "white": "#6D828E",
+    "yellow": "#aab386"
+}

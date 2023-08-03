@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-cave",
+    "background": "#19171c",
+    "selectionBackground": "#585260",
+    "black": "#19171c",
+    "blue": "#576ddb",
+    "brightBlack": "#655f6d",
+    "brightBlue": "#7e7887",
+    "brightCyan": "#bf40bf",
+    "brightGreen": "#26232a",
+    "brightPurple": "#e2dfe7",
+    "brightRed": "#aa573c",
+    "brightWhite": "#efecf4",
+    "brightYellow": "#585260",
+    "cyan": "#398bc6",
+    "foreground": "#8b8792",
+    "green": "#2a9292",
+    "purple": "#955ae7",
+    "red": "#be4678",
+    "white": "#8b8792",
+    "yellow": "#a06e3b"
+}

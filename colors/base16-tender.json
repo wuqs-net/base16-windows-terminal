@@ -1,0 +1,22 @@
+{
+    "name": "base16-tender",
+    "background": "#282828",
+    "selectionBackground": "#484848",
+    "black": "#282828",
+    "blue": "#b3deef",
+    "brightBlack": "#4c4c4c",
+    "brightBlue": "#b8b8b8",
+    "brightCyan": "#a16946",
+    "brightGreen": "#383838",
+    "brightPurple": "#e8e8e8",
+    "brightRed": "#dc9656",
+    "brightWhite": "#feffff",
+    "brightYellow": "#484848",
+    "cyan": "#73cef4",
+    "foreground": "#eeeeee",
+    "green": "#c9d05c",
+    "purple": "#d3b987",
+    "red": "#f43753",
+    "white": "#eeeeee",
+    "yellow": "#ffc24b"
+}

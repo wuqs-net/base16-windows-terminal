@@ -1,0 +1,22 @@
+{
+    "name": "base16-brewer",
+    "background": "#0c0d0e",
+    "selectionBackground": "#515253",
+    "black": "#0c0d0e",
+    "blue": "#3182bd",
+    "brightBlack": "#737475",
+    "brightBlue": "#959697",
+    "brightCyan": "#b15928",
+    "brightGreen": "#2e2f30",
+    "brightPurple": "#dadbdc",
+    "brightRed": "#e6550d",
+    "brightWhite": "#fcfdfe",
+    "brightYellow": "#515253",
+    "cyan": "#80b1d3",
+    "foreground": "#b7b8b9",
+    "green": "#31a354",
+    "purple": "#756bb1",
+    "red": "#e31a1c",
+    "white": "#b7b8b9",
+    "yellow": "#dca060"
+}

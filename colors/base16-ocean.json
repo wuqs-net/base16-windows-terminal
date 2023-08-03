@@ -1,0 +1,22 @@
+{
+    "name": "base16-ocean",
+    "background": "#2b303b",
+    "selectionBackground": "#4f5b66",
+    "black": "#2b303b",
+    "blue": "#8fa1b3",
+    "brightBlack": "#65737e",
+    "brightBlue": "#a7adba",
+    "brightCyan": "#ab7967",
+    "brightGreen": "#343d46",
+    "brightPurple": "#dfe1e8",
+    "brightRed": "#d08770",
+    "brightWhite": "#eff1f5",
+    "brightYellow": "#4f5b66",
+    "cyan": "#96b5b4",
+    "foreground": "#c0c5ce",
+    "green": "#a3be8c",
+    "purple": "#b48ead",
+    "red": "#bf616a",
+    "white": "#c0c5ce",
+    "yellow": "#ebcb8b"
+}

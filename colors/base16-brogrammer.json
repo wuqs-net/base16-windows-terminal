@@ -1,0 +1,22 @@
+{
+    "name": "base16-brogrammer",
+    "background": "#1f1f1f",
+    "selectionBackground": "#2dc55e",
+    "black": "#1f1f1f",
+    "blue": "#5350b9",
+    "brightBlack": "#ecba0f",
+    "brightBlue": "#2a84d2",
+    "brightCyan": "#ffffff",
+    "brightGreen": "#f81118",
+    "brightPurple": "#1081d6",
+    "brightRed": "#de352e",
+    "brightWhite": "#d6dbe5",
+    "brightYellow": "#2dc55e",
+    "cyan": "#1081d6",
+    "foreground": "#4e5ab7",
+    "green": "#f3bd09",
+    "purple": "#0f7ddb",
+    "red": "#d6dbe5",
+    "white": "#4e5ab7",
+    "yellow": "#1dd361"
+}

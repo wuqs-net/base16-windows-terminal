@@ -1,0 +1,22 @@
+{
+    "name": "base16-rose-pine-moon",
+    "background": "#232136",
+    "selectionBackground": "#393552",
+    "black": "#232136",
+    "blue": "#c4a7e7",
+    "brightBlack": "#6e6a86",
+    "brightBlue": "#908caa",
+    "brightCyan": "#56526e",
+    "brightGreen": "#2a273f",
+    "brightPurple": "#e0def4",
+    "brightRed": "#f6c177",
+    "brightWhite": "#56526e",
+    "brightYellow": "#393552",
+    "cyan": "#9ccfd8",
+    "foreground": "#e0def4",
+    "green": "#3e8fb0",
+    "purple": "#f6c177",
+    "red": "#eb6f92",
+    "white": "#e0def4",
+    "yellow": "#ea9a97"
+}

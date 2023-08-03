@@ -1,0 +1,22 @@
+{
+    "name": "base16-woodland",
+    "background": "#231e18",
+    "selectionBackground": "#48413a",
+    "black": "#231e18",
+    "blue": "#88a4d3",
+    "brightBlack": "#9d8b70",
+    "brightBlue": "#b4a490",
+    "brightCyan": "#b49368",
+    "brightGreen": "#302b25",
+    "brightPurple": "#d7c8bc",
+    "brightRed": "#ca7f32",
+    "brightWhite": "#e4d4c8",
+    "brightYellow": "#48413a",
+    "cyan": "#6eb958",
+    "foreground": "#cabcb1",
+    "green": "#b7ba53",
+    "purple": "#bb90e2",
+    "red": "#d35c5c",
+    "white": "#cabcb1",
+    "yellow": "#e0ac16"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-black-metal-nile",
+    "background": "#000000",
+    "selectionBackground": "#222222",
+    "black": "#000000",
+    "blue": "#888888",
+    "brightBlack": "#333333",
+    "brightBlue": "#999999",
+    "brightCyan": "#444444",
+    "brightGreen": "#121212",
+    "brightPurple": "#999999",
+    "brightRed": "#aaaaaa",
+    "brightWhite": "#c1c1c1",
+    "brightYellow": "#222222",
+    "cyan": "#aaaaaa",
+    "foreground": "#c1c1c1",
+    "green": "#aa9988",
+    "purple": "#999999",
+    "red": "#5f8787",
+    "white": "#c1c1c1",
+    "yellow": "#777755"
+}

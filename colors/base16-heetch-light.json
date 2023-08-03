@@ -1,0 +1,22 @@
+{
+    "name": "base16-heetch-light",
+    "background": "#feffff",
+    "selectionBackground": "#7b6d8b",
+    "black": "#feffff",
+    "blue": "#47f9f5",
+    "brightBlack": "#9c92a8",
+    "brightBlue": "#ddd6e5",
+    "brightCyan": "#dedae2",
+    "brightGreen": "#392551",
+    "brightPurple": "#470546",
+    "brightRed": "#bdb6c5",
+    "brightWhite": "#190134",
+    "brightYellow": "#7b6d8b",
+    "cyan": "#c33678",
+    "foreground": "#5a496e",
+    "green": "#f80059",
+    "purple": "#bd0152",
+    "red": "#27d9d5",
+    "white": "#5a496e",
+    "yellow": "#5ba2b6"
+}

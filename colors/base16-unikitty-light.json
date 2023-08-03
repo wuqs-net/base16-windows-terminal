@@ -1,0 +1,22 @@
+{
+    "name": "base16-unikitty-light",
+    "background": "#ffffff",
+    "selectionBackground": "#c4c3c5",
+    "black": "#ffffff",
+    "blue": "#775dff",
+    "brightBlack": "#a7a5a8",
+    "brightBlue": "#89878b",
+    "brightCyan": "#e013d0",
+    "brightGreen": "#e1e1e2",
+    "brightPurple": "#4f4b51",
+    "brightRed": "#d65407",
+    "brightWhite": "#322d34",
+    "brightYellow": "#c4c3c5",
+    "cyan": "#149bda",
+    "foreground": "#6c696e",
+    "green": "#17ad98",
+    "purple": "#aa17e6",
+    "red": "#d8137f",
+    "white": "#6c696e",
+    "yellow": "#dc8a0e"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-paraiso",
+    "background": "#2f1e2e",
+    "selectionBackground": "#4f424c",
+    "black": "#2f1e2e",
+    "blue": "#06b6ef",
+    "brightBlack": "#776e71",
+    "brightBlue": "#8d8687",
+    "brightCyan": "#e96ba8",
+    "brightGreen": "#41323f",
+    "brightPurple": "#b9b6b0",
+    "brightRed": "#f99b15",
+    "brightWhite": "#e7e9db",
+    "brightYellow": "#4f424c",
+    "cyan": "#5bc4bf",
+    "foreground": "#a39e9b",
+    "green": "#48b685",
+    "purple": "#815ba4",
+    "red": "#ef6155",
+    "white": "#a39e9b",
+    "yellow": "#fec418"
+}

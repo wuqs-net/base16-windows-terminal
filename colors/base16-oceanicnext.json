@@ -1,0 +1,22 @@
+{
+    "name": "base16-oceanicnext",
+    "background": "#1B2B34",
+    "selectionBackground": "#4F5B66",
+    "black": "#1B2B34",
+    "blue": "#6699CC",
+    "brightBlack": "#65737E",
+    "brightBlue": "#A7ADBA",
+    "brightCyan": "#AB7967",
+    "brightGreen": "#343D46",
+    "brightPurple": "#CDD3DE",
+    "brightRed": "#F99157",
+    "brightWhite": "#D8DEE9",
+    "brightYellow": "#4F5B66",
+    "cyan": "#5FB3B3",
+    "foreground": "#C0C5CE",
+    "green": "#99C794",
+    "purple": "#C594C5",
+    "red": "#EC5f67",
+    "white": "#C0C5CE",
+    "yellow": "#FAC863"
+}

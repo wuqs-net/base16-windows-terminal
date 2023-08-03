@@ -1,0 +1,22 @@
+{
+    "name": "base16-summercamp",
+    "background": "#1c1810",
+    "selectionBackground": "#3a3527",
+    "black": "#1c1810",
+    "blue": "#489bf0",
+    "brightBlack": "#504b38",
+    "brightBlue": "#5f5b45",
+    "brightCyan": "#F69BE7",
+    "brightGreen": "#2a261c",
+    "brightPurple": "#bab696",
+    "brightRed": "#fba11b",
+    "brightWhite": "#f8f5de",
+    "brightYellow": "#3a3527",
+    "cyan": "#5aebbc",
+    "foreground": "#736e55",
+    "green": "#5ceb5a",
+    "purple": "#FF8080",
+    "red": "#e35142",
+    "white": "#736e55",
+    "yellow": "#f2ff27"
+}

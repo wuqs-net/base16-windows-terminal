@@ -1,0 +1,22 @@
+{
+    "name": "base16-pinky",
+    "background": "#171517",
+    "selectionBackground": "#1d1b1d",
+    "black": "#171517",
+    "blue": "#00ffff",
+    "brightBlack": "#383338",
+    "brightBlue": "#e7dbdb",
+    "brightCyan": "#df206c",
+    "brightGreen": "#1b181b",
+    "brightPurple": "#ffffff",
+    "brightRed": "#00ff66",
+    "brightWhite": "#f7f3f7",
+    "brightYellow": "#1d1b1d",
+    "cyan": "#6600ff",
+    "foreground": "#f5f5f5",
+    "green": "#ff0066",
+    "purple": "#007fff",
+    "red": "#ffa600",
+    "white": "#f5f5f5",
+    "yellow": "#20df6c"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-mocha",
+    "background": "#3B3228",
+    "selectionBackground": "#645240",
+    "black": "#3B3228",
+    "blue": "#8ab3b5",
+    "brightBlack": "#7e705a",
+    "brightBlue": "#b8afad",
+    "brightCyan": "#bb9584",
+    "brightGreen": "#534636",
+    "brightPurple": "#e9e1dd",
+    "brightRed": "#d28b71",
+    "brightWhite": "#f5eeeb",
+    "brightYellow": "#645240",
+    "cyan": "#7bbda4",
+    "foreground": "#d0c8c6",
+    "green": "#beb55b",
+    "purple": "#a89bb9",
+    "red": "#cb6077",
+    "white": "#d0c8c6",
+    "yellow": "#f4bc87"
+}

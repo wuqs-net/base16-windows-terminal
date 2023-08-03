@@ -1,0 +1,22 @@
+{
+    "name": "base16-windows-nt-light",
+    "background": "#ffffff",
+    "selectionBackground": "#d5d5d5",
+    "black": "#ffffff",
+    "blue": "#000080",
+    "brightBlack": "#c0c0c0",
+    "brightBlue": "#a0a0a0",
+    "brightCyan": "#00ff00",
+    "brightGreen": "#eaeaea",
+    "brightPurple": "#404040",
+    "brightRed": "#ffff00",
+    "brightWhite": "#000000",
+    "brightYellow": "#d5d5d5",
+    "cyan": "#008080",
+    "foreground": "#808080",
+    "green": "#008000",
+    "purple": "#800080",
+    "red": "#800000",
+    "white": "#808080",
+    "yellow": "#808000"
+}

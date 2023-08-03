@@ -1,0 +1,22 @@
+{
+    "name": "base16-atlas",
+    "background": "#002635",
+    "selectionBackground": "#517F8D",
+    "black": "#002635",
+    "blue": "#5dd7b9",
+    "brightBlack": "#6C8B91",
+    "brightBlue": "#869696",
+    "brightCyan": "#c43060",
+    "brightGreen": "#00384d",
+    "brightPurple": "#e6e6dc",
+    "brightRed": "#f08e48",
+    "brightWhite": "#fafaf8",
+    "brightYellow": "#517F8D",
+    "cyan": "#14747e",
+    "foreground": "#a1a19a",
+    "green": "#7fc06e",
+    "purple": "#9a70a4",
+    "red": "#ff5a67",
+    "white": "#a1a19a",
+    "yellow": "#ffcc1b"
+}

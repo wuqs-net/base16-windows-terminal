@@ -1,0 +1,22 @@
+{
+    "name": "base16-mellow-purple",
+    "background": "#1e0528",
+    "selectionBackground": "#331354",
+    "black": "#1e0528",
+    "blue": "#550068",
+    "brightBlack": "#320f55",
+    "brightBlue": "#873582",
+    "brightCyan": "#4d6fff",
+    "brightGreen": "#1A092D",
+    "brightPurple": "#ffeeff",
+    "brightRed": "#aa00a3",
+    "brightWhite": "#f8c0ff",
+    "brightYellow": "#331354",
+    "cyan": "#b900b1",
+    "foreground": "#ffeeff",
+    "green": "#05cb0d",
+    "purple": "#8991bb",
+    "red": "#00d9e9",
+    "white": "#ffeeff",
+    "yellow": "#955ae7"
+}

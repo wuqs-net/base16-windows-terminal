@@ -1,0 +1,22 @@
+{
+    "name": "base16-summerfruit-light",
+    "background": "#FFFFFF",
+    "selectionBackground": "#D0D0D0",
+    "black": "#FFFFFF",
+    "blue": "#3777E6",
+    "brightBlack": "#B0B0B0",
+    "brightBlue": "#000000",
+    "brightCyan": "#CC6633",
+    "brightGreen": "#E0E0E0",
+    "brightPurple": "#151515",
+    "brightRed": "#FD8900",
+    "brightWhite": "#202020",
+    "brightYellow": "#D0D0D0",
+    "cyan": "#1FAAAA",
+    "foreground": "#101010",
+    "green": "#00C918",
+    "purple": "#AD00A1",
+    "red": "#FF0086",
+    "white": "#101010",
+    "yellow": "#ABA800"
+}

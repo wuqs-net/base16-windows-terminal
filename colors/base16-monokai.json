@@ -1,0 +1,22 @@
+{
+    "name": "base16-monokai",
+    "background": "#272822",
+    "selectionBackground": "#49483e",
+    "black": "#272822",
+    "blue": "#66d9ef",
+    "brightBlack": "#75715e",
+    "brightBlue": "#a59f85",
+    "brightCyan": "#cc6633",
+    "brightGreen": "#383830",
+    "brightPurple": "#f5f4f1",
+    "brightRed": "#fd971f",
+    "brightWhite": "#f9f8f5",
+    "brightYellow": "#49483e",
+    "cyan": "#a1efe4",
+    "foreground": "#f8f8f2",
+    "green": "#a6e22e",
+    "purple": "#ae81ff",
+    "red": "#f92672",
+    "white": "#f8f8f2",
+    "yellow": "#f4bf75"
+}

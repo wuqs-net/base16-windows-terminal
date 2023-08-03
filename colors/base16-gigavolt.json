@@ -1,0 +1,22 @@
+{
+    "name": "base16-gigavolt",
+    "background": "#202126",
+    "selectionBackground": "#5a576e",
+    "black": "#202126",
+    "blue": "#40bfff",
+    "brightBlack": "#a1d2e6",
+    "brightBlue": "#cad3ff",
+    "brightCyan": "#6187ff",
+    "brightGreen": "#2d303d",
+    "brightPurple": "#eff0f9",
+    "brightRed": "#19f988",
+    "brightWhite": "#f2fbff",
+    "brightYellow": "#5a576e",
+    "cyan": "#fb6acb",
+    "foreground": "#e9e7e1",
+    "green": "#f2e6a9",
+    "purple": "#ae94f9",
+    "red": "#ff661a",
+    "white": "#e9e7e1",
+    "yellow": "#ffdc2d"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-estuary",
+    "background": "#22221b",
+    "selectionBackground": "#5f5e4e",
+    "black": "#22221b",
+    "blue": "#36a166",
+    "brightBlack": "#6c6b5a",
+    "brightBlue": "#878573",
+    "brightCyan": "#9d6c7c",
+    "brightGreen": "#302f27",
+    "brightPurple": "#e7e6df",
+    "brightRed": "#ae7313",
+    "brightWhite": "#f4f3ec",
+    "brightYellow": "#5f5e4e",
+    "cyan": "#5b9d48",
+    "foreground": "#929181",
+    "green": "#7d9726",
+    "purple": "#5f9182",
+    "red": "#ba6236",
+    "white": "#929181",
+    "yellow": "#a5980d"
+}

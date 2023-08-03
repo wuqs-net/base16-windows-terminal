@@ -1,0 +1,22 @@
+{
+    "name": "base16-dirtysea",
+    "background": "#e0e0e0",
+    "selectionBackground": "#d0d0d0",
+    "black": "#e0e0e0",
+    "blue": "#007300",
+    "brightBlack": "#707070",
+    "brightBlue": "#202020",
+    "brightCyan": "#755B00",
+    "brightGreen": "#d0dad0",
+    "brightPurple": "#f8f8f8",
+    "brightRed": "#006565",
+    "brightWhite": "#c4d9c4",
+    "brightYellow": "#d0d0d0",
+    "cyan": "#755B00",
+    "foreground": "#000000",
+    "green": "#730073",
+    "purple": "#000090",
+    "red": "#840000",
+    "white": "#000000",
+    "yellow": "#755B00"
+}

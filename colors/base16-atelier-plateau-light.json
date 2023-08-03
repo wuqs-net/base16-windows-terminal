@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-plateau-light",
+    "background": "#f4ecec",
+    "selectionBackground": "#8a8585",
+    "black": "#f4ecec",
+    "blue": "#7272ca",
+    "brightBlack": "#7e7777",
+    "brightBlue": "#655d5d",
+    "brightCyan": "#bd5187",
+    "brightGreen": "#e7dfdf",
+    "brightPurple": "#292424",
+    "brightRed": "#b45a3c",
+    "brightWhite": "#1b1818",
+    "brightYellow": "#8a8585",
+    "cyan": "#5485b6",
+    "foreground": "#585050",
+    "green": "#4b8b8b",
+    "purple": "#8464c4",
+    "red": "#ca4949",
+    "white": "#585050",
+    "yellow": "#a06e3b"
+}

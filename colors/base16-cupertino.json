@@ -1,0 +1,22 @@
+{
+    "name": "base16-cupertino",
+    "background": "#ffffff",
+    "selectionBackground": "#c0c0c0",
+    "black": "#ffffff",
+    "blue": "#0000ff",
+    "brightBlack": "#808080",
+    "brightBlue": "#808080",
+    "brightCyan": "#826b28",
+    "brightGreen": "#c0c0c0",
+    "brightPurple": "#404040",
+    "brightRed": "#eb8500",
+    "brightWhite": "#5e5e5e",
+    "brightYellow": "#c0c0c0",
+    "cyan": "#318495",
+    "foreground": "#404040",
+    "green": "#007400",
+    "purple": "#a90d91",
+    "red": "#c41a15",
+    "white": "#404040",
+    "yellow": "#826b28"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-hardcore",
+    "background": "#212121",
+    "selectionBackground": "#353535",
+    "black": "#212121",
+    "blue": "#66d9ef",
+    "brightBlack": "#4A4A4A",
+    "brightBlue": "#707070",
+    "brightCyan": "#e8b882",
+    "brightGreen": "#303030",
+    "brightPurple": "#e5e5e5",
+    "brightRed": "#fd971f",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#353535",
+    "cyan": "#708387",
+    "foreground": "#cdcdcd",
+    "green": "#a6e22e",
+    "purple": "#9e6ffe",
+    "red": "#f92672",
+    "white": "#cdcdcd",
+    "yellow": "#e6db74"
+}

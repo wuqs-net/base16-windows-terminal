@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-plateau",
+    "background": "#1b1818",
+    "selectionBackground": "#585050",
+    "black": "#1b1818",
+    "blue": "#7272ca",
+    "brightBlack": "#655d5d",
+    "brightBlue": "#7e7777",
+    "brightCyan": "#bd5187",
+    "brightGreen": "#292424",
+    "brightPurple": "#e7dfdf",
+    "brightRed": "#b45a3c",
+    "brightWhite": "#f4ecec",
+    "brightYellow": "#585050",
+    "cyan": "#5485b6",
+    "foreground": "#8a8585",
+    "green": "#4b8b8b",
+    "purple": "#8464c4",
+    "red": "#ca4949",
+    "white": "#8a8585",
+    "yellow": "#a06e3b"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-marrakesh",
+    "background": "#201602",
+    "selectionBackground": "#5f5b17",
+    "black": "#201602",
+    "blue": "#477ca1",
+    "brightBlack": "#6c6823",
+    "brightBlue": "#86813b",
+    "brightCyan": "#b3588e",
+    "brightGreen": "#302e00",
+    "brightPurple": "#ccc37a",
+    "brightRed": "#b36144",
+    "brightWhite": "#faf0a5",
+    "brightYellow": "#5f5b17",
+    "cyan": "#75a738",
+    "foreground": "#948e48",
+    "green": "#18974e",
+    "purple": "#8868b3",
+    "red": "#c35359",
+    "white": "#948e48",
+    "yellow": "#a88339"
+}

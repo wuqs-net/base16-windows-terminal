@@ -1,0 +1,22 @@
+{
+    "name": "base16-circus",
+    "background": "#191919",
+    "selectionBackground": "#303030",
+    "black": "#191919",
+    "blue": "#639ee4",
+    "brightBlack": "#5f5a60",
+    "brightBlue": "#505050",
+    "brightCyan": "#b888e2",
+    "brightGreen": "#202020",
+    "brightPurple": "#808080",
+    "brightRed": "#4bb1a7",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#303030",
+    "cyan": "#4bb1a7",
+    "foreground": "#a7a7a7",
+    "green": "#84b97c",
+    "purple": "#b888e2",
+    "red": "#dc657d",
+    "white": "#a7a7a7",
+    "yellow": "#c3ba63"
+}

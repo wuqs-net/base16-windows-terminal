@@ -1,0 +1,22 @@
+{
+    "name": "base16-material-palenight",
+    "background": "#292D3E",
+    "selectionBackground": "#32374D",
+    "black": "#292D3E",
+    "blue": "#82AAFF",
+    "brightBlack": "#676E95",
+    "brightBlue": "#8796B0",
+    "brightCyan": "#FF5370",
+    "brightGreen": "#444267",
+    "brightPurple": "#959DCB",
+    "brightRed": "#F78C6C",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#32374D",
+    "cyan": "#89DDFF",
+    "foreground": "#959DCB",
+    "green": "#C3E88D",
+    "purple": "#C792EA",
+    "red": "#F07178",
+    "white": "#959DCB",
+    "yellow": "#FFCB6B"
+}

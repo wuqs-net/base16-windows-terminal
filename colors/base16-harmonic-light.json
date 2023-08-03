@@ -1,0 +1,22 @@
+{
+    "name": "base16-harmonic-light",
+    "background": "#f7f9fb",
+    "selectionBackground": "#cbd6e2",
+    "black": "#f7f9fb",
+    "blue": "#8b56bf",
+    "brightBlack": "#aabcce",
+    "brightBlue": "#627e99",
+    "brightCyan": "#bf5656",
+    "brightGreen": "#e5ebf1",
+    "brightPurple": "#223b54",
+    "brightRed": "#bfbf56",
+    "brightWhite": "#0b1c2c",
+    "brightYellow": "#cbd6e2",
+    "cyan": "#568bbf",
+    "foreground": "#405c79",
+    "green": "#56bf8b",
+    "purple": "#bf568b",
+    "red": "#bf8b56",
+    "white": "#405c79",
+    "yellow": "#8bbf56"
+}

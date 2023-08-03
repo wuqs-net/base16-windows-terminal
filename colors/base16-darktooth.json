@@ -1,0 +1,22 @@
+{
+    "name": "base16-darktooth",
+    "background": "#1D2021",
+    "selectionBackground": "#504945",
+    "black": "#1D2021",
+    "blue": "#0D6678",
+    "brightBlack": "#665C54",
+    "brightBlue": "#928374",
+    "brightCyan": "#A87322",
+    "brightGreen": "#32302F",
+    "brightPurple": "#D5C4A1",
+    "brightRed": "#FE8625",
+    "brightWhite": "#FDF4C1",
+    "brightYellow": "#504945",
+    "cyan": "#8BA59B",
+    "foreground": "#A89984",
+    "green": "#95C085",
+    "purple": "#8F4673",
+    "red": "#FB543F",
+    "white": "#A89984",
+    "yellow": "#FAC03B"
+}

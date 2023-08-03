@@ -1,0 +1,22 @@
+{
+    "name": "base16-edge-light",
+    "background": "#fafafa",
+    "selectionBackground": "#d69822",
+    "black": "#fafafa",
+    "blue": "#6587bf",
+    "brightBlack": "#5e646f",
+    "brightBlue": "#6587bf",
+    "brightCyan": "#509c93",
+    "brightGreen": "#7c9f4b",
+    "brightPurple": "#b870ce",
+    "brightRed": "#db7070",
+    "brightWhite": "#5e646f",
+    "brightYellow": "#d69822",
+    "cyan": "#509c93",
+    "foreground": "#5e646f",
+    "green": "#7c9f4b",
+    "purple": "#b870ce",
+    "red": "#db7070",
+    "white": "#5e646f",
+    "yellow": "#d69822"
+}

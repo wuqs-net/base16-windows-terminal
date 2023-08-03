@@ -1,0 +1,22 @@
+{
+    "name": "base16-greenscreen",
+    "background": "#001100",
+    "selectionBackground": "#005500",
+    "black": "#001100",
+    "blue": "#009900",
+    "brightBlack": "#007700",
+    "brightBlue": "#009900",
+    "brightCyan": "#005500",
+    "brightGreen": "#003300",
+    "brightPurple": "#00dd00",
+    "brightRed": "#009900",
+    "brightWhite": "#00ff00",
+    "brightYellow": "#005500",
+    "cyan": "#005500",
+    "foreground": "#00bb00",
+    "green": "#00bb00",
+    "purple": "#00bb00",
+    "red": "#007700",
+    "white": "#00bb00",
+    "yellow": "#007700"
+}

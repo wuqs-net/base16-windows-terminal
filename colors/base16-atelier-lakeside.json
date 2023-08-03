@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-lakeside",
+    "background": "#161b1d",
+    "selectionBackground": "#516d7b",
+    "black": "#161b1d",
+    "blue": "#257fad",
+    "brightBlack": "#5a7b8c",
+    "brightBlue": "#7195a8",
+    "brightCyan": "#b72dd2",
+    "brightGreen": "#1f292e",
+    "brightPurple": "#c1e4f6",
+    "brightRed": "#935c25",
+    "brightWhite": "#ebf8ff",
+    "brightYellow": "#516d7b",
+    "cyan": "#2d8f6f",
+    "foreground": "#7ea2b4",
+    "green": "#568c3b",
+    "purple": "#6b6bb8",
+    "red": "#d22d72",
+    "white": "#7ea2b4",
+    "yellow": "#8a8a0f"
+}

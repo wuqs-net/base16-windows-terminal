@@ -1,0 +1,22 @@
+{
+    "name": "base16-sandcastle",
+    "background": "#282c34",
+    "selectionBackground": "#3e4451",
+    "black": "#282c34",
+    "blue": "#83a598",
+    "brightBlack": "#665c54",
+    "brightBlue": "#928374",
+    "brightCyan": "#a87322",
+    "brightGreen": "#2c323b",
+    "brightPurple": "#d5c4a1",
+    "brightRed": "#a07e3b",
+    "brightWhite": "#fdf4c1",
+    "brightYellow": "#3e4451",
+    "cyan": "#83a598",
+    "foreground": "#a89984",
+    "green": "#528b8b",
+    "purple": "#d75f5f",
+    "red": "#83a598",
+    "white": "#a89984",
+    "yellow": "#a07e3b"
+}

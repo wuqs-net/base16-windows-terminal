@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-heath-light",
+    "background": "#f7f3f7",
+    "selectionBackground": "#ab9bab",
+    "black": "#f7f3f7",
+    "blue": "#516aec",
+    "brightBlack": "#9e8f9e",
+    "brightBlue": "#776977",
+    "brightCyan": "#cc33cc",
+    "brightGreen": "#d8cad8",
+    "brightPurple": "#292329",
+    "brightRed": "#a65926",
+    "brightWhite": "#1b181b",
+    "brightYellow": "#ab9bab",
+    "cyan": "#159393",
+    "foreground": "#695d69",
+    "green": "#918b3b",
+    "purple": "#7b59c0",
+    "red": "#ca402b",
+    "white": "#695d69",
+    "yellow": "#bb8a35"
+}

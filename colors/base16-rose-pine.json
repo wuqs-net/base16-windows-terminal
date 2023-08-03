@@ -1,0 +1,22 @@
+{
+    "name": "base16-rose-pine",
+    "background": "#191724",
+    "selectionBackground": "#26233a",
+    "black": "#191724",
+    "blue": "#c4a7e7",
+    "brightBlack": "#6e6a86",
+    "brightBlue": "#908caa",
+    "brightCyan": "#524f67",
+    "brightGreen": "#1f1d2e",
+    "brightPurple": "#e0def4",
+    "brightRed": "#f6c177",
+    "brightWhite": "#524f67",
+    "brightYellow": "#26233a",
+    "cyan": "#9ccfd8",
+    "foreground": "#e0def4",
+    "green": "#31748f",
+    "purple": "#f6c177",
+    "red": "#eb6f92",
+    "white": "#e0def4",
+    "yellow": "#ebbcba"
+}

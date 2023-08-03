@@ -1,0 +1,22 @@
+{
+    "name": "base16-embers",
+    "background": "#16130F",
+    "selectionBackground": "#433B32",
+    "black": "#16130F",
+    "blue": "#6D5782",
+    "brightBlack": "#5A5047",
+    "brightBlue": "#8A8075",
+    "brightCyan": "#825757",
+    "brightGreen": "#2C2620",
+    "brightPurple": "#BEB6AE",
+    "brightRed": "#828257",
+    "brightWhite": "#DBD6D1",
+    "brightYellow": "#433B32",
+    "cyan": "#576D82",
+    "foreground": "#A39A90",
+    "green": "#57826D",
+    "purple": "#82576D",
+    "red": "#826D57",
+    "white": "#A39A90",
+    "yellow": "#6D8257"
+}

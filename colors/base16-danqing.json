@@ -1,0 +1,22 @@
+{
+    "name": "base16-danqing",
+    "background": "#2d302f",
+    "selectionBackground": "#5a605d",
+    "black": "#2d302f",
+    "blue": "#B0A4E3",
+    "brightBlack": "#9da8a3",
+    "brightBlue": "#cad8d2",
+    "brightCyan": "#CA6924",
+    "brightGreen": "#434846",
+    "brightPurple": "#ecf6f2",
+    "brightRed": "#B38A61",
+    "brightWhite": "#fcfefd",
+    "brightYellow": "#5a605d",
+    "cyan": "#30DFF3",
+    "foreground": "#e0f0eF",
+    "green": "#8AB361",
+    "purple": "#CCA4E3",
+    "red": "#F9906F",
+    "white": "#e0f0eF",
+    "yellow": "#F0C239"
+}

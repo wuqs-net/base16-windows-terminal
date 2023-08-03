@@ -1,0 +1,22 @@
+{
+    "name": "base16-zenburn",
+    "background": "#383838",
+    "selectionBackground": "#606060",
+    "black": "#383838",
+    "blue": "#7cb8bb",
+    "brightBlack": "#6f6f6f",
+    "brightBlue": "#808080",
+    "brightCyan": "#000000",
+    "brightGreen": "#404040",
+    "brightPurple": "#c0c0c0",
+    "brightRed": "#dfaf8f",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#606060",
+    "cyan": "#93e0e3",
+    "foreground": "#dcdccc",
+    "green": "#5f7f5f",
+    "purple": "#dc8cc3",
+    "red": "#dca3a3",
+    "white": "#dcdccc",
+    "yellow": "#e0cf9f"
+}

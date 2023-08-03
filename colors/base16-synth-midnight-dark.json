@@ -1,0 +1,22 @@
+{
+    "name": "base16-synth-midnight-dark",
+    "background": "#050608",
+    "selectionBackground": "#28292a",
+    "black": "#050608",
+    "blue": "#03aeff",
+    "brightBlack": "#474849",
+    "brightBlue": "#a3a5a6",
+    "brightCyan": "#cd6320",
+    "brightGreen": "#1a1b1c",
+    "brightPurple": "#cfd1d2",
+    "brightRed": "#ea770d",
+    "brightWhite": "#dddfe0",
+    "brightYellow": "#28292a",
+    "cyan": "#42fff9",
+    "foreground": "#c1c3c4",
+    "green": "#06ea61",
+    "purple": "#ea5ce2",
+    "red": "#b53b50",
+    "white": "#c1c3c4",
+    "yellow": "#c9d364"
+}

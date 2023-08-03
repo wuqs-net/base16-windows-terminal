@@ -1,0 +1,22 @@
+{
+    "name": "base16-mexico-light",
+    "background": "#f8f8f8",
+    "selectionBackground": "#d8d8d8",
+    "black": "#f8f8f8",
+    "blue": "#7cafc2",
+    "brightBlack": "#b8b8b8",
+    "brightBlue": "#585858",
+    "brightCyan": "#a16946",
+    "brightGreen": "#e8e8e8",
+    "brightPurple": "#282828",
+    "brightRed": "#dc9656",
+    "brightWhite": "#181818",
+    "brightYellow": "#d8d8d8",
+    "cyan": "#4b8093",
+    "foreground": "#383838",
+    "green": "#538947",
+    "purple": "#96609e",
+    "red": "#ab4642",
+    "white": "#383838",
+    "yellow": "#f79a0e"
+}

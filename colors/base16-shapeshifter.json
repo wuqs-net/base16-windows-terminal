@@ -1,0 +1,22 @@
+{
+    "name": "base16-shapeshifter",
+    "background": "#f9f9f9",
+    "selectionBackground": "#ababab",
+    "black": "#f9f9f9",
+    "blue": "#3b48e3",
+    "brightBlack": "#555555",
+    "brightBlue": "#343434",
+    "brightCyan": "#69542d",
+    "brightGreen": "#e0e0e0",
+    "brightPurple": "#040404",
+    "brightRed": "#e09448",
+    "brightWhite": "#000000",
+    "brightYellow": "#ababab",
+    "cyan": "#23edda",
+    "foreground": "#102015",
+    "green": "#0ed839",
+    "purple": "#f996e2",
+    "red": "#e92f2f",
+    "white": "#102015",
+    "yellow": "#dddd13"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "base16-isotope",
+    "background": "#000000",
+    "selectionBackground": "#606060",
+    "black": "#000000",
+    "blue": "#0066ff",
+    "brightBlack": "#808080",
+    "brightBlue": "#c0c0c0",
+    "brightCyan": "#3300ff",
+    "brightGreen": "#404040",
+    "brightPurple": "#e0e0e0",
+    "brightRed": "#ff9900",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#606060",
+    "cyan": "#00ffff",
+    "foreground": "#d0d0d0",
+    "green": "#33ff00",
+    "purple": "#cc00ff",
+    "red": "#ff0000",
+    "white": "#d0d0d0",
+    "yellow": "#ff0099"
+}

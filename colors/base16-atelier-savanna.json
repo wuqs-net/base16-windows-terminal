@@ -1,0 +1,22 @@
+{
+    "name": "base16-atelier-savanna",
+    "background": "#171c19",
+    "selectionBackground": "#526057",
+    "black": "#171c19",
+    "blue": "#478c90",
+    "brightBlack": "#5f6d64",
+    "brightBlue": "#78877d",
+    "brightCyan": "#867469",
+    "brightGreen": "#232a25",
+    "brightPurple": "#dfe7e2",
+    "brightRed": "#9f713c",
+    "brightWhite": "#ecf4ee",
+    "brightYellow": "#526057",
+    "cyan": "#1c9aa0",
+    "foreground": "#87928a",
+    "green": "#489963",
+    "purple": "#55859b",
+    "red": "#b16139",
+    "white": "#87928a",
+    "yellow": "#a07e3b"
+}

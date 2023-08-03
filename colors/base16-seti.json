@@ -1,0 +1,22 @@
+{
+    "name": "base16-seti",
+    "background": "#151718",
+    "selectionBackground": "#3B758C",
+    "black": "#151718",
+    "blue": "#55b5db",
+    "brightBlack": "#41535B",
+    "brightBlue": "#43a5d5",
+    "brightCyan": "#8a553f",
+    "brightGreen": "#282a2b",
+    "brightPurple": "#eeeeee",
+    "brightRed": "#db7b55",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#3B758C",
+    "cyan": "#55dbbe",
+    "foreground": "#d6d6d6",
+    "green": "#9fca56",
+    "purple": "#a074c4",
+    "red": "#Cd3f45",
+    "white": "#d6d6d6",
+    "yellow": "#e6cd69"
+}
