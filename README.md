@@ -12,7 +12,7 @@ This theme was built with [base16-builder-python](https://github.com/InspectorMu
 
 ## "256" Variants
 
-**TL;DR:** If you don't want your ANSI Bright Yellow color to look like your background colour, use the "256" variants.
+**TL;DR:** If you don't want your ANSI Bright Yellow color to look like your background colour in terminal, use the "256" variants.
 
 *Acknowledgement:* The following is taken from [base16-item2](https://github.com/tinted-theming/base16-iterm2).
 
